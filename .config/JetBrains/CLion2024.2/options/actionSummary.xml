@@ -1,0 +1,76 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="1" l="1728561188454" />
+    </e>
+    <e n="CPP.CreateCMakeProject">
+      <i c="2" l="1728561191881" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="46" l="1729153524853" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="4" l="1729153526342" />
+    </e>
+    <e n="EditorCopy">
+      <i c="2" l="1729153513281" />
+    </e>
+    <e n="EditorCut">
+      <i c="1" l="1729153515792" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="4" l="1729153504764" />
+    </e>
+    <e n="EditorDown">
+      <i c="8" l="1729153518959" />
+    </e>
+    <e n="EditorEnter">
+      <i c="4" l="1729153519290" />
+    </e>
+    <e n="EditorEscape">
+      <i c="2" l="1729153531982" />
+    </e>
+    <e n="EditorRight">
+      <i c="1" l="1729153483177" />
+    </e>
+    <e n="EditorUp">
+      <i c="3" l="1729153519605" />
+    </e>
+    <e n="ExternalSystem.ProjectRefreshAction">
+      <i c="1" l="1728561199701" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="2" l="1728561070706" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="2" l="1728561207093" />
+    </e>
+    <e n="Run">
+      <i c="2" l="1728561249668" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1727371402413" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1728561499374" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="1" l="1728561184610" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1727371396115" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1727371326359" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1729153466898" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="1" l="1730386030031" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="2" l="1728561208463" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,14 @@
+[Info  - 10:15:52 PM] Pyright language server 1.1.388 starting
+[Info  - 10:15:52 PM] Server root directory: file:///home/Coldwire/.vscode-oss/extensions/ms-pyright.pyright-1.1.388-universal/dist
+[Info  - 10:15:52 PM] Starting service instance "sys_tp"
+Received pythonPath from Python extension: /bin/python
+[Info  - 10:15:52 PM] Setting pythonPath for service "sys_tp": "/bin/python"
+[Info  - 10:15:52 PM] No include entries specified; assuming /home/Coldwire/sys_tp
+[Info  - 10:15:52 PM] Auto-excluding **/node_modules
+[Info  - 10:15:52 PM] Auto-excluding **/__pycache__
+[Info  - 10:15:52 PM] Auto-excluding **/.*
+[Info  - 10:15:52 PM] Assuming Python version 3.12.7.final.0
+[Info  - 10:15:52 PM] No source files found.
+[Info  - 10:15:53 PM] Background analysis(1) root directory: file:///home/Coldwire/.vscode-oss/extensions/ms-pyright.pyright-1.1.388-universal/dist
+[Info  - 10:15:53 PM] Background analysis(1) started
+[Info  - 10:16:22 PM] Found 1 source file

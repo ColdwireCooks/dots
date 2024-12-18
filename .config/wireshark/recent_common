@@ -1,0 +1,117 @@
+# Common recent settings file for Wireshark 4.4.2.
+#
+# This file is regenerated each time Wireshark is quit
+# and when changing configuration profile.
+# So be careful, if you want to make manual changes here.
+
+######## Recent capture files (latest last), cannot be altered through command line ########
+
+
+######## Recent capture filters (latest first), cannot be altered through command line ########
+
+
+######## Recent display filters (latest last), cannot be altered through command line ########
+
+
+# Main window geometry.
+# Decimal numbers.
+gui.geometry_main_x: 0
+gui.geometry_main_y: 0
+gui.geometry_main_width: 1900
+gui.geometry_main_height: 1020
+
+# Main window maximized.
+# true or false (case-insensitive).
+gui.geometry_main_maximized: true
+
+# Main window geometry state.
+# Hex byte string.
+gui.geometry_main: 01d9d0cb0003000000000000000000000000076b000003fb00000000000000000000077f000004370000000002000000078000000000000000000000076b000003fb
+
+# Leftalign Action Buttons.
+# true or false (case-insensitive).
+gui.geometry_leftalign_actions: false
+
+# Last used Configuration Profile.
+gui.last_used_profile: Default
+
+# Number of packets or events to check for automatic profile switching.
+# Decimal number. Zero disables switching.
+#gui.profile_switch_check_count: 1000
+
+# Warn if running with elevated permissions (e.g. as root).
+# true or false (case-insensitive).
+privs.warn_if_elevated: true
+
+# Warn if Wireshark is unable to capture.
+# true or false (case-insensitive).
+sys.warn_if_no_capture: true
+
+# Find packet search in.
+# One of: PACKET_LIST, PACKET_DETAILS, PACKET_BYTES
+gui.search_in: PACKET_LIST
+
+# Find packet character set.
+# One of: NARROW_AND_WIDE, NARROW, WIDE
+gui.search_char_set: NARROW_AND_WIDE
+
+# Find packet case sensitive search.
+# true or false (case-insensitive).
+gui.search_case_sensitive: false
+
+# Find packet search reverse direction.
+# true or false (case-insensitive).
+gui.search_reverse_dir: false
+
+# Find packet search multiple occurrences.
+# true or false (case-insensitive).
+gui.search_multiple_occurs: false
+
+# Find packet search type.
+# One of: DISPLAY_FILTER, HEX_VALUE, STRING, REGEX
+gui.search_type: DISPLAY_FILTER
+
+# Geometry and maximized state of PacketDialog window.
+# Decimal integers.
+gui.geom.PacketDialog.x: 0
+gui.geom.PacketDialog.y: 0
+gui.geom.PacketDialog.width: 942
+gui.geom.PacketDialog.height: 1020
+# true or false (case-insensitive).
+gui.geom.PacketDialog.maximized: false
+# Qt Geometry State (hex byte string).
+gui.geom.PacketDialog.qt_geometry: 01d9d0cb000300000000000000000000000003ad000003fb0000000000000000000003bf0000040f000000000200000007800000000000000000000003ad000003fb
+
+# Geometry and maximized state of CaptureFilePropertiesDialog window.
+# Decimal integers.
+gui.geom.CaptureFilePropertiesDialog.x: 317
+gui.geom.CaptureFilePropertiesDialog.y: 0
+gui.geom.CaptureFilePropertiesDialog.width: 942
+gui.geom.CaptureFilePropertiesDialog.height: 1020
+# true or false (case-insensitive).
+gui.geom.CaptureFilePropertiesDialog.maximized: false
+# Qt Geometry State (hex byte string).
+gui.geom.CaptureFilePropertiesDialog.qt_geometry: 01d9d0cb000300000000013d00000000000004ea000003fb0000013d00000000000004fc0000040f000000000200000007800000013d00000000000004ea000003fb
+
+# Geometry and maximized state of WAP-WSP Packet Counter window.
+# Decimal integers.
+gui.geom.WAP-WSP Packet Counter.x: 657
+gui.geom.WAP-WSP Packet Counter.y: 271
+gui.geom.WAP-WSP Packet Counter.width: 942
+gui.geom.WAP-WSP Packet Counter.height: 1020
+# true or false (case-insensitive).
+gui.geom.WAP-WSP Packet Counter.maximized: false
+# Qt Geometry State (hex byte string).
+gui.geom.WAP-WSP Packet Counter.qt_geometry: 01d9d0cb00030000000002910000010f0000063e0000050a000002910000010f000006500000051e00000000020000000780000002910000010f0000063e0000050a
+
+# Custom colors.
+# List of custom colors selected in Qt color picker.
+gui.custom_colors: 
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff"

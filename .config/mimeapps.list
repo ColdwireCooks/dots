@@ -1,0 +1,11 @@
+[Default Applications]
+application/vnd.efi.iso=vmware-workstation.desktop
+video/mp4=vlc.desktop
+audio/mpeg=tenacity.desktop
+image/png=mirage.desktop
+
+[Added Associations]
+application/vnd.efi.iso=vmware-workstation.desktop;
+video/mp4=vlc.desktop;mpv.desktop;
+audio/mpeg=tenacity.desktop;
+image/png=swappy.desktop;mirage.desktop;

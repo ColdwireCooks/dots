@@ -1,0 +1,236 @@
+2024-11-10 22:14:12.706 [error] Unable to check if shell integration is active [Error: Extension 'ms-python.python' CANNOT use API proposal: terminalDataWriteEvent.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalDataWriteEvent.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:16578)
+	at a.onDidWriteTerminalData (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:156:46120)
+	at new v (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:909813)
+	at ge (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1759387)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762751
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762779
+	at Se (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762846)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763326
+	at we (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763267)
+	at Pe (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763301)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760540
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762145
+	at Array.reduce (<anonymous>)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762117
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762399
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762779
+	at Se (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762846)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763326
+	at we (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763267)
+	at Pe (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763301)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760540
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1790210
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1790231
+	at e._get (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1789244)
+	at e._getButThrowIfAsync (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1789304)
+	at e.get (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1785013)
+	at e.dynamicValue (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1774746)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760923
+	at Ee (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1761179)
+	at Se (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762895)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763326
+	at we (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763267)
+	at Pe (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763301)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760540
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760474
+	at Array.map (<anonymous>)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760445
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762145
+	at Array.reduce (<anonymous>)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762117
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762399
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762779
+	at Se (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762846)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763326
+	at we (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763267)
+	at Pe (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763301)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760540
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1790210
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1790231
+	at e._get (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1789244)
+	at e._getButThrowIfAsync (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1789304)
+	at e.get (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1785013)
+	at a.get (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:525791)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:441383
+	at async t.activateComponents (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:439663)
+	at async /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2717119
+	at async e (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2716651)
+	at async B0.n (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:114:4447)
+	at async B0.m (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:114:4410)
+	at async B0.l (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:114:3866)]
+2024-11-10 22:14:12.706 [info] Starting Environment refresh
+2024-11-10 22:14:12.706 [info] Searching for interpreters in posix paths locator
+2024-11-10 22:14:12.706 [info] Searching for pyenv environments
+2024-11-10 22:14:12.706 [info] Searching for conda environments
+2024-11-10 22:14:12.706 [info] Searching for global virtual environments
+2024-11-10 22:14:12.706 [info] Searching for custom virtual environments
+2024-11-10 22:14:12.706 [info] pyenv is not installed
+2024-11-10 22:14:12.706 [info] Finished searching for pyenv environments: 10 milliseconds
+2024-11-10 22:14:12.706 [info] Finished searching for custom virtual envs: 10 milliseconds
+2024-11-10 22:14:12.706 [info] > conda info --json
+2024-11-10 22:14:12.706 [info] Finished searching for global virtual envs: 21 milliseconds
+2024-11-10 22:14:12.707 [info] Found: /bin/python --> /bin/python3.12
+2024-11-10 22:14:12.708 [info] Found: /bin/python3 --> /bin/python3.12
+2024-11-10 22:14:12.708 [info] Found: /bin/python3.12 --> /bin/python3.12
+2024-11-10 22:14:12.728 [info] Found: /sbin/python --> /sbin/python3.12
+2024-11-10 22:14:12.729 [info] Found: /sbin/python3 --> /sbin/python3.12
+2024-11-10 22:14:12.729 [info] Found: /sbin/python3.12 --> /sbin/python3.12
+2024-11-10 22:14:12.733 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2024-11-10 22:14:12.733 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2024-11-10 22:14:12.733 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2024-11-10 22:14:12.750 [info] Found: /usr/sbin/python --> /usr/sbin/python3.12
+2024-11-10 22:14:12.750 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.12
+2024-11-10 22:14:12.750 [info] Found: /usr/sbin/python3.12 --> /usr/sbin/python3.12
+2024-11-10 22:14:12.762 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/python_files/interpreterInfo.py
+2024-11-10 22:14:12.773 [info] > /sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/python_files/interpreterInfo.py
+2024-11-10 22:14:12.778 [info] Finished searching for interpreters in posix paths locator: 107 milliseconds
+2024-11-10 22:14:12.785 [info] Environments refresh paths discovered (event): 115 milliseconds
+2024-11-10 22:14:12.785 [info] Environments refresh paths discovered: 115 milliseconds
+2024-11-10 22:14:12.806 [info] > /usr/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/python_files/interpreterInfo.py
+2024-11-10 22:14:12.817 [info] > /usr/sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/python_files/interpreterInfo.py
+2024-11-10 22:14:12.850 [info] Environments refresh finished (event): 180 milliseconds
+2024-11-10 22:14:12.856 [info] Environment refresh took 186 milliseconds
+2024-11-10 22:14:12.862 [error] [
+  'Failed to activate a workspace, Class name = v, completed in 192ms, has a falsy return value, Arg 1: undefined, Arg 2: {"started":1731276852612}, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:16578)
+  	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:156:39418)
+  	at C.activate (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:945676)
+  	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2457
+  	at Array.map (<anonymous>)
+  	at v.activateWorkspace (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2447)]
+]
+2024-11-10 22:14:12.862 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:16578)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:156:39418)
+	at C.activate (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:945676)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2447)]
+2024-11-10 22:14:12.862 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:16578)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:156:39418)
+	at C.activate (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:945676)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2447)]
+2024-11-10 22:14:12.866 [info] Python interpreter path: /bin/python
+2024-11-10 22:14:13.844 [info] Starting Jedi language server for default.
+2024-11-10 22:15:51.770 [warning] Dir "/home/Coldwire/sys_tp/.pixi/envs" is not watchable (directory does not exist)
+2024-11-10 22:15:51.770 [error] Unable to check if shell integration is active [Error: Extension 'ms-python.python' CANNOT use API proposal: terminalDataWriteEvent.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalDataWriteEvent.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:16578)
+	at a.onDidWriteTerminalData (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:156:46120)
+	at new v (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:909813)
+	at ge (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1759387)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762751
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762779
+	at Se (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762846)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763326
+	at we (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763267)
+	at Pe (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763301)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760540
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762145
+	at Array.reduce (<anonymous>)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762117
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762399
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762779
+	at Se (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762846)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763326
+	at we (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763267)
+	at Pe (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763301)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760540
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1790210
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1790231
+	at e._get (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1789244)
+	at e._getButThrowIfAsync (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1789304)
+	at e.get (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1785013)
+	at e.dynamicValue (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1774746)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760923
+	at Ee (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1761179)
+	at Se (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762895)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763326
+	at we (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763267)
+	at Pe (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763301)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760540
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760474
+	at Array.map (<anonymous>)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760445
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762145
+	at Array.reduce (<anonymous>)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762117
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762399
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762779
+	at Se (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762846)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763326
+	at we (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763267)
+	at Pe (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763301)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760540
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1790210
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1790231
+	at e._get (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1789244)
+	at e._getButThrowIfAsync (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1789304)
+	at e.get (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1785013)
+	at a.get (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:525791)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:441383
+	at async t.activateComponents (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:439663)
+	at async /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2717119
+	at async e (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2716651)
+	at async B0.n (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:114:4447)
+	at async B0.m (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:114:4410)
+	at async B0.l (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:114:3866)]
+2024-11-10 22:15:51.770 [info] Starting Environment refresh
+2024-11-10 22:15:51.777 [info] > hatch env show --json
+2024-11-10 22:15:51.777 [info] cwd: .
+2024-11-10 22:15:51.778 [info] Python interpreter path: /bin/python
+2024-11-10 22:15:51.786 [info] Starting Environment refresh
+2024-11-10 22:15:51.823 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/python_files/interpreterInfo.py
+2024-11-10 22:15:51.824 [info] Environments refresh paths discovered: 65 milliseconds
+2024-11-10 22:15:51.824 [info] Environments refresh paths discovered: 38 milliseconds
+2024-11-10 22:15:52.028 [info] Environments refresh finished (event): 269 milliseconds
+2024-11-10 22:15:52.028 [info] Environments refresh finished (event): 242 milliseconds
+2024-11-10 22:15:52.079 [info] Environment refresh took 320 milliseconds
+2024-11-10 22:15:52.080 [info] Environment refresh took 294 milliseconds
+2024-11-10 22:15:52.106 [info] > pyenv which python
+2024-11-10 22:15:52.107 [info] cwd: .
+2024-11-10 22:15:52.145 [error] [
+  'Failed to activate a workspace, Class name = v, completed in 387ms, has a falsy return value, Arg 1: <Uri:/home/Coldwire/sys_tp>, Arg 2: {"started":1731276951692}, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:16578)
+  	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:156:39418)
+  	at C.activate (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:945676)
+  	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2457
+  	at Array.map (<anonymous>)
+  	at v.activateWorkspace (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2447)]
+]
+2024-11-10 22:15:52.145 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:16578)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:156:39418)
+	at C.activate (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:945676)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2447)]
+2024-11-10 22:15:52.145 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:16578)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:156:39418)
+	at C.activate (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:945676)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2447)]
+2024-11-10 22:15:53.073 [info] Starting Jedi language server for sys_tp.

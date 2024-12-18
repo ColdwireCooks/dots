@@ -1,0 +1,63 @@
+2024-11-10 22:22:04.815 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-11-10 22:22:05.092 [info] Started local extension host with pid 51279.
+2024-11-10 22:22:05.507 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes, contribIssueReporter, debugVisualization, contribViewsWelcome'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-11-10 22:22:05.507 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, contribIssueReporter, codeActionAI, notebookReplDocument, notebookVariableProvider'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-11-10 22:22:05.528 [info] [ms-pyright.pyright]: Command `pyright.organizeimports` already registered by Cursor Pyright (anysphere.pyright)
+2024-11-10 22:22:05.529 [info] [ms-pyright.pyright]: Command `pyright.restartserver` already registered by Cursor Pyright (anysphere.pyright)
+2024-11-10 22:22:05.529 [info] [ms-pyright.pyright]: Command `pyright.dumpTokens` already registered by Cursor Pyright (anysphere.pyright)
+2024-11-10 22:22:05.529 [info] [ms-pyright.pyright]: Command `pyright.dumpNodes` already registered by Cursor Pyright (anysphere.pyright)
+2024-11-10 22:22:05.529 [info] [ms-pyright.pyright]: Command `pyright.dumpTypes` already registered by Cursor Pyright (anysphere.pyright)
+2024-11-10 22:22:05.530 [info] [ms-pyright.pyright]: Command `pyright.dumpCachedTypes` already registered by Cursor Pyright (anysphere.pyright)
+2024-11-10 22:22:05.530 [info] [ms-pyright.pyright]: Command `pyright.dumpCodeFlowGraph` already registered by Cursor Pyright (anysphere.pyright)
+2024-11-10 22:22:05.538 [error] [ms-python.debugpy]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.debugpy
+2024-11-10 22:22:05.538 [error] [ms-python.python]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-11-10 22:22:05.539 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-11-10 22:22:05.544 [warning] [ms-pyright.pyright]: Cannot register 'python.analysis.autoImportCompletions'. This property is already registered.
+2024-11-10 22:22:05.546 [warning] [ms-pyright.pyright]: Cannot register 'python.analysis.autoSearchPaths'. This property is already registered.
+2024-11-10 22:22:05.546 [warning] [ms-pyright.pyright]: Cannot register 'python.analysis.extraPaths'. This property is already registered.
+2024-11-10 22:22:05.546 [warning] [ms-pyright.pyright]: Cannot register 'python.analysis.stubPath'. This property is already registered.
+2024-11-10 22:22:05.547 [warning] [ms-pyright.pyright]: Cannot register 'python.analysis.diagnosticMode'. This property is already registered.
+2024-11-10 22:22:05.547 [warning] [ms-pyright.pyright]: Cannot register 'python.analysis.diagnosticSeverityOverrides'. This property is already registered.
+2024-11-10 22:22:05.547 [warning] [ms-pyright.pyright]: Cannot register 'python.analysis.logLevel'. This property is already registered.
+2024-11-10 22:22:05.547 [warning] [ms-pyright.pyright]: Cannot register 'python.analysis.typeCheckingMode'. This property is already registered.
+2024-11-10 22:22:05.548 [warning] [ms-pyright.pyright]: Cannot register 'python.analysis.typeshedPaths'. This property is already registered.
+2024-11-10 22:22:05.548 [warning] [ms-pyright.pyright]: Cannot register 'python.analysis.useLibraryCodeForTypes'. This property is already registered.
+2024-11-10 22:22:05.548 [warning] [ms-pyright.pyright]: Cannot register 'pyright.disableLanguageServices'. This property is already registered.
+2024-11-10 22:22:05.548 [warning] [ms-pyright.pyright]: Cannot register 'pyright.disableOrganizeImports'. This property is already registered.
+2024-11-10 22:22:05.549 [warning] [ms-pyright.pyright]: Cannot register 'python.pythonPath'. This property is already registered.
+2024-11-10 22:22:05.549 [warning] [ms-python.python]: Cannot register 'python.venvPath'. This property is already registered.
+2024-11-10 22:22:05.602 [error] TreeError [SettingsTree] Tree element not found: [object Object]: Error: TreeError [SettingsTree] Tree element not found: [object Object]
+    at hcs.o (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:416:8655)
+    at hcs.rerender (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:416:7116)
+    at c7e.rerender (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:416:15983)
+    at dy.ad (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1334:54200)
+    at dy.Zc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1334:54064)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1334:53399
+    at Set.forEach (<anonymous>)
+    at dy.Xc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1334:53383)
+    at vZ.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1334:37318)
+    at x.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:747)
+2024-11-10 22:22:06.190 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-11-10 22:22:09.869 [info] [perf] Render performance baseline is 41ms
+2024-11-10 22:22:21.825 [error] TreeError [SettingsTree] Tree element not found: [object Object]: Error: TreeError [SettingsTree] Tree element not found: [object Object]
+    at hcs.o (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:416:8655)
+    at hcs.rerender (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:416:7116)
+    at c7e.rerender (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:416:15983)
+    at dy.ad (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1334:54200)
+    at dy.Zc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1334:54064)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1334:53399
+    at Set.forEach (<anonymous>)
+    at dy.Xc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1334:53383)
+    at dy.Wc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1334:50892)
+    at vZ.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1334:50561)
+2024-11-10 22:22:28.976 [error] TreeError [SettingsTree] Tree element not found: [object Object]: Error: TreeError [SettingsTree] Tree element not found: [object Object]
+    at hcs.o (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:416:8655)
+    at hcs.rerender (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:416:7116)
+    at c7e.rerender (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:416:15983)
+    at dy.ad (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1334:54200)
+    at dy.Zc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1334:54064)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1334:49512
+2024-11-10 22:22:30.383 [error] spawn /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/python-env-tools/bin/pet ENOENT: Error: spawn /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/python-env-tools/bin/pet ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)

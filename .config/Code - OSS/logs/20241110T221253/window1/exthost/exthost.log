@@ -1,0 +1,67 @@
+2024-11-10 22:12:55.105 [info] Extension host with pid 49435 started
+2024-11-10 22:12:55.121 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-10 22:12:55.129 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-10 22:12:55.247 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-10 22:12:55.360 [info] Eager extensions activated
+2024-11-10 22:12:55.375 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-10 22:12:55.379 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-10 22:12:58.371 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-10 22:14:12.311 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onWalkthrough:pythonWelcome'
+2024-11-10 22:14:12.630 [error] Error: spawn /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/python-env-tools/bin/pet ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-11-10 22:14:13.863 [error] Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:16578)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:156:39418)
+	at C.activate (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:945676)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2447)
+2024-11-10 22:15:03.002 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-11-10 22:15:43.717 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-10 22:15:43.734 [info] Extension host with pid 49435 exiting with code 0
+2024-11-10 22:15:45.161 [info] Extension host with pid 49905 started
+2024-11-10 22:15:45.161 [info] Skipping acquiring lock for /home/Coldwire/.config/Code - OSS/User/workspaceStorage/3875a4255cddf9582a12d487642b1b16.
+2024-11-10 22:15:45.185 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-11-10 22:15:45.278 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-10 22:15:45.332 [info] Eager extensions activated
+2024-11-10 22:15:45.371 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-10 22:15:45.374 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-10 22:15:47.254 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-11-10 22:15:47.340 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-11-10 22:15:51.476 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onCommand:python.createNewFile'
+2024-11-10 22:15:51.717 [error] Error: spawn /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/python-env-tools/bin/pet ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-11-10 22:15:51.826 [info] ExtensionService#_doActivateExtension anysphere.pyright, startup: false, activationEvent: 'onLanguage:python'
+2024-11-10 22:15:51.829 [info] ExtensionService#_doActivateExtension ms-pyright.pyright, startup: false, activationEvent: 'onLanguage:python'
+2024-11-10 22:15:51.914 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-11-10 22:15:51.996 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-10 22:15:52.056 [error] Activating extension ms-python.debugpy failed due to an error:
+2024-11-10 22:15:52.056 [error] Error: Extension 'ms-python.debugpy' CANNOT use API proposal: portsAttributes.
+Its package.json#enabledApiProposals-property declares:  but NOT portsAttributes.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.debugpy
+	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:16578)
+	at Object.registerPortAttributesProvider (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:156:55601)
+	at t.registerDebugger (/home/Coldwire/.vscode-oss/extensions/ms-python.debugpy-2024.12.0-linux-x64/dist/extension.js:2:907336)
+	at e.activate (/home/Coldwire/.vscode-oss/extensions/ms-python.debugpy-2024.12.0-linux-x64/dist/extension.js:2:1156364)
+	at pw.kb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:15214)
+	at pw.jb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:14921)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:13079
+	at async B0.n (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:114:4447)
+	at async B0.m (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:114:4410)
+	at async B0.l (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:114:3866)
+2024-11-10 22:15:52.165 [warning] DiagnosticCollection with name 'python' does already exist.
+2024-11-10 22:15:53.150 [error] Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:16578)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:156:39418)
+	at C.activate (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:945676)
+	at /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2447)

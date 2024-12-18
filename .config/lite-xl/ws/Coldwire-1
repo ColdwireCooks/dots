@@ -1,0 +1,1 @@
+return { path = "/home/Coldwire", documents = {["views"]={[1]={["text"]=false,["type"]="doc",["scroll"]={["y"]=0,["x"]=0},["filename"]=".config/nvim/init.lua",["selection"]={[1]=15,[2]=23,[3]=15,[4]=23},["active"]=false}},["active_view"]=1,["type"]="leaf"}, directories = {} }

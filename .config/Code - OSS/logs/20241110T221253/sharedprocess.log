@@ -1,0 +1,70 @@
+2024-11-10 22:13:47.866 [info] Getting Manifest... ms-python.python
+2024-11-10 22:13:49.359 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/Coldwire/.vscode-oss/extensions/extensions.json","path":"/home/Coldwire/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"}}
+2024-11-10 22:13:49.728 [info] Getting Manifest... ms-python.debugpy
+2024-11-10 22:13:50.448 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/Coldwire/.vscode-oss/extensions/extensions.json","path":"/home/Coldwire/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-11-10 22:14:00.082 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-10 22:14:00.083 [info] Extension signature verification is not done: ms-python.debugpy
+2024-11-10 22:14:00.591 [info] Extracted extension to file:///home/Coldwire/.vscode-oss/extensions/ms-python.debugpy-2024.12.0-linux-x64: ms-python.debugpy
+2024-11-10 22:14:00.599 [info] Renamed to /home/Coldwire/.vscode-oss/extensions/ms-python.debugpy-2024.12.0-linux-x64
+2024-11-10 22:14:00.694 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/Coldwire/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/Coldwire/.vscode-oss/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-10 22:14:10.536 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-10 22:14:10.537 [info] Extension signature verification is not done: ms-python.python
+2024-11-10 22:14:12.075 [info] Extracted extension to file:///home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal: ms-python.python
+2024-11-10 22:14:12.084 [info] Renamed to /home/Coldwire/.vscode-oss/extensions/ms-python.python-2024.18.0-universal
+2024-11-10 22:14:12.100 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/Coldwire/.vscode-oss/extensions/extensions.json
+2024-11-10 22:14:12.100 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/Coldwire/.vscode-oss/extensions/extensions.json
+2024-11-10 22:14:12.170 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/Coldwire/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/Coldwire/.vscode-oss/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-10 22:15:01.421 [info] Getting Manifest... formulahendry.code-runner
+2024-11-10 22:15:01.666 [info] Installing extension: formulahendry.code-runner {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/Coldwire/.vscode-oss/extensions/extensions.json","path":"/home/Coldwire/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"}}
+2024-11-10 22:15:02.631 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-10 22:15:02.632 [info] Extension signature verification is not done: formulahendry.code-runner
+2024-11-10 22:15:02.821 [info] Extracted extension to file:///home/Coldwire/.vscode-oss/extensions/formulahendry.code-runner-0.12.2-universal: formulahendry.code-runner
+2024-11-10 22:15:02.826 [info] Renamed to /home/Coldwire/.vscode-oss/extensions/formulahendry.code-runner-0.12.2-universal
+2024-11-10 22:15:02.836 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/Coldwire/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/Coldwire/.vscode-oss/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-10 22:15:02.843 [info] Extension installed successfully: formulahendry.code-runner vscode-userdata:/home/Coldwire/.vscode-oss/extensions/extensions.json
+2024-11-10 22:15:13.486 [info] Getting Manifest... ms-pyright.pyright
+2024-11-10 22:15:13.769 [info] Installing extension: ms-pyright.pyright {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/Coldwire/.vscode-oss/extensions/extensions.json","path":"/home/Coldwire/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"}}
+2024-11-10 22:15:17.859 [info] Getting Manifest... anysphere.pyright
+2024-11-10 22:15:18.124 [info] Installing extension: anysphere.pyright {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/Coldwire/.vscode-oss/extensions/extensions.json","path":"/home/Coldwire/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"}}
+2024-11-10 22:15:20.685 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-10 22:15:20.686 [info] Extension signature verification is not done: anysphere.pyright
+2024-11-10 22:15:21.448 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-10 22:15:21.448 [info] Extension signature verification is not done: ms-pyright.pyright
+2024-11-10 22:15:23.471 [info] Extracted extension to file:///home/Coldwire/.vscode-oss/extensions/anysphere.pyright-1.1.327-universal: anysphere.pyright
+2024-11-10 22:15:23.482 [info] Renamed to /home/Coldwire/.vscode-oss/extensions/anysphere.pyright-1.1.327-universal
+2024-11-10 22:15:23.499 [info] Extension installed successfully: anysphere.pyright vscode-userdata:/home/Coldwire/.vscode-oss/extensions/extensions.json
+2024-11-10 22:15:23.565 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/Coldwire/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/Coldwire/.vscode-oss/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-10 22:15:24.162 [info] Extracted extension to file:///home/Coldwire/.vscode-oss/extensions/ms-pyright.pyright-1.1.388-universal: ms-pyright.pyright
+2024-11-10 22:15:24.171 [info] Renamed to /home/Coldwire/.vscode-oss/extensions/ms-pyright.pyright-1.1.388-universal
+2024-11-10 22:15:24.186 [info] Extension installed successfully: ms-pyright.pyright vscode-userdata:/home/Coldwire/.vscode-oss/extensions/extensions.json
+2024-11-10 22:15:24.251 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/Coldwire/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/Coldwire/.vscode-oss/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)

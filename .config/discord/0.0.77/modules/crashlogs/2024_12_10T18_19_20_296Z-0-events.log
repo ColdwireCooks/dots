@@ -1,0 +1,271 @@
+2024-12-10T18:19:20.310Z 0: 
+
+----------------------------------------------
+2024-12-10T18:19:20.324Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.77"}, modulepath: /home/Coldwire/.config/discord/0.0.77/modules
+2024-12-10T18:19:20.332Z 2: ✅ webContents.created web1 "index.html"
+2024-12-10T18:19:20.346Z 3: ✅ window.created win1 "discord"
+2024-12-10T18:19:20.702Z 4: ✅ webContents.did-finish-load web1
+2024-12-10T18:19:34.238Z 5: ✅ webContents.created web2 ""
+2024-12-10T18:19:34.249Z 6: ✅ window.created win2 "Discord"
+2024-12-10T18:19:36.572Z 7: ✅ webContents.did-finish-load web2
+2024-12-10T18:19:36.674Z 8: window.close win1
+2024-12-10T18:19:36.681Z 9: webContents.destroyed web1
+2024-12-10T18:19:36.684Z 10: window.closed win1
+2024-12-10T18:19:43.175Z 11: window.close win2
+2024-12-10T18:19:43.183Z 12: before-quit
+2024-12-10T18:19:43.186Z 13: window.close win2
+2024-12-10T18:19:43.239Z 14: webContents.destroyed web2
+2024-12-10T18:46:40.425Z 0: 
+
+----------------------------------------------
+2024-12-10T18:46:40.461Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.77"}, modulepath: /home/Coldwire/.config/discord/0.0.77/modules
+2024-12-10T18:46:40.469Z 2: ✅ webContents.created web1 "index.html"
+2024-12-10T18:46:40.471Z 3: ✅ window.created win1 "discord"
+2024-12-10T18:46:40.724Z 4: ✅ webContents.did-finish-load web1
+2024-12-10T18:46:41.309Z 5: ✅ webContents.created web2 ""
+2024-12-10T18:46:41.319Z 6: ✅ window.created win2 "Discord"
+2024-12-10T18:46:45.790Z 7: ✅ webContents.did-finish-load web2
+2024-12-10T18:46:45.892Z 8: window.close win1
+2024-12-10T18:46:46.127Z 9: webContents.destroyed web1
+2024-12-10T18:46:46.131Z 10: window.closed win1
+2024-12-10T18:46:51.594Z 11: window.close win2
+2024-12-10T18:46:51.597Z 12: before-quit
+2024-12-10T18:46:51.598Z 13: window.close win2
+2024-12-10T18:46:51.637Z 14: webContents.destroyed web2
+2024-12-11T10:18:14.084Z 0: 
+
+----------------------------------------------
+2024-12-11T10:18:14.099Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.77"}, modulepath: /home/Coldwire/.config/discord/0.0.77/modules
+2024-12-11T10:18:14.105Z 2: ✅ webContents.created web1 "index.html"
+2024-12-11T10:18:14.107Z 3: ✅ window.created win1 "discord"
+2024-12-11T10:18:14.291Z 4: ✅ webContents.did-finish-load web1
+2024-12-11T10:18:15.571Z 5: ✅ webContents.created web2 ""
+2024-12-11T10:18:15.580Z 6: ✅ window.created win2 "Discord"
+2024-12-11T10:18:28.315Z 7: ✅ webContents.did-finish-load web2
+2024-12-11T10:18:28.416Z 8: window.close win1
+2024-12-11T10:18:28.425Z 9: webContents.destroyed web1
+2024-12-11T10:18:28.427Z 10: window.closed win1
+2024-12-11T18:12:17.537Z 11: window.close win2
+2024-12-11T18:12:17.546Z 12: before-quit
+2024-12-11T18:12:17.549Z 13: window.close win2
+2024-12-11T18:12:17.708Z 14: webContents.destroyed web2
+2024-12-11T18:57:48.405Z 0: 
+
+----------------------------------------------
+2024-12-11T18:57:48.424Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.77"}, modulepath: /home/Coldwire/.config/discord/0.0.77/modules
+2024-12-11T18:57:48.432Z 2: ✅ webContents.created web1 "index.html"
+2024-12-11T18:57:48.435Z 3: ✅ window.created win1 "discord"
+2024-12-11T18:57:48.724Z 4: ✅ webContents.did-finish-load web1
+2024-12-11T18:57:49.448Z 5: ✅ webContents.created web2 ""
+2024-12-11T18:57:49.456Z 6: ✅ window.created win2 "Discord"
+2024-12-11T18:57:53.138Z 7: ✅ webContents.did-finish-load web2
+2024-12-11T18:57:53.239Z 8: window.close win1
+2024-12-11T18:57:53.249Z 9: webContents.destroyed web1
+2024-12-11T18:57:53.252Z 10: window.closed win1
+2024-12-11T18:57:55.802Z 11: window.close win2
+2024-12-11T18:57:55.811Z 12: before-quit
+2024-12-11T18:57:55.815Z 13: window.close win2
+2024-12-11T18:57:55.859Z 14: webContents.destroyed web2
+2024-12-11T18:57:55.869Z 15: window.closed win2
+2024-12-11T21:14:37.218Z 0: 
+
+----------------------------------------------
+2024-12-11T21:14:37.238Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.77"}, modulepath: /home/Coldwire/.config/discord/0.0.77/modules
+2024-12-11T21:14:37.249Z 2: ✅ webContents.created web1 "index.html"
+2024-12-11T21:14:37.252Z 3: ✅ window.created win1 "discord"
+2024-12-11T21:14:37.583Z 4: ✅ webContents.did-finish-load web1
+2024-12-11T21:14:39.352Z 5: ✅ webContents.created web2 ""
+2024-12-11T21:14:39.375Z 6: ✅ window.created win2 "Discord"
+2024-12-11T21:14:54.406Z 7: ✅ webContents.did-finish-load web2
+2024-12-11T21:14:54.509Z 8: window.close win1
+2024-12-11T21:14:54.535Z 9: webContents.destroyed web1
+2024-12-11T21:14:54.539Z 10: window.closed win1
+2024-12-11T21:15:00.813Z 11: window.close win2
+2024-12-11T21:15:00.826Z 12: before-quit
+2024-12-11T21:15:00.832Z 13: window.close win2
+2024-12-11T21:15:00.931Z 14: webContents.destroyed web2
+2024-12-12T17:36:25.967Z 0: 
+
+----------------------------------------------
+2024-12-12T17:36:25.998Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.77"}, modulepath: /home/Coldwire/.config/discord/0.0.77/modules
+2024-12-12T17:36:26.005Z 2: ✅ webContents.created web1 "index.html"
+2024-12-12T17:36:26.009Z 3: ✅ window.created win1 "discord"
+2024-12-12T17:36:26.471Z 4: ✅ webContents.did-finish-load web1
+2024-12-12T17:36:27.185Z 5: ✅ webContents.created web2 ""
+2024-12-12T17:36:27.204Z 6: ✅ window.created win2 "Discord"
+2024-12-12T17:36:36.044Z 7: ✅ webContents.did-finish-load web2
+2024-12-12T17:36:36.147Z 8: window.close win1
+2024-12-12T17:36:36.165Z 9: webContents.destroyed web1
+2024-12-12T17:36:36.168Z 10: window.closed win1
+2024-12-12T17:37:13.868Z 11: window.close win2
+2024-12-12T17:37:13.878Z 12: before-quit
+2024-12-12T17:37:13.884Z 13: window.close win2
+2024-12-12T17:37:14.087Z 14: webContents.destroyed web2
+2024-12-13T16:41:26.301Z 0: 
+
+----------------------------------------------
+2024-12-13T16:41:26.318Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.77"}, modulepath: /home/Coldwire/.config/discord/0.0.77/modules
+2024-12-13T16:41:26.323Z 2: ✅ webContents.created web1 "index.html"
+2024-12-13T16:41:26.326Z 3: ✅ window.created win1 "discord"
+2024-12-13T16:41:26.660Z 4: ✅ webContents.did-finish-load web1
+2024-12-13T16:41:27.258Z 5: ✅ webContents.created web2 ""
+2024-12-13T16:41:27.279Z 6: ✅ window.created win2 "Discord"
+2024-12-13T16:41:31.445Z 7: ✅ webContents.did-finish-load web2
+2024-12-13T16:41:31.548Z 8: window.close win1
+2024-12-13T16:41:31.577Z 9: webContents.destroyed web1
+2024-12-13T16:41:31.582Z 10: window.closed win1
+2024-12-13T16:42:59.800Z 11: window.close win2
+2024-12-13T16:42:59.809Z 12: before-quit
+2024-12-13T16:42:59.813Z 13: window.close win2
+2024-12-13T16:42:59.956Z 14: webContents.destroyed web2
+2024-12-13T23:04:54.334Z 0: 
+
+----------------------------------------------
+2024-12-13T23:04:54.350Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.77"}, modulepath: /home/Coldwire/.config/discord/0.0.77/modules
+2024-12-13T23:04:54.354Z 2: ✅ webContents.created web1 "index.html"
+2024-12-13T23:04:54.356Z 3: ✅ window.created win1 "discord"
+2024-12-13T23:04:54.550Z 4: ✅ webContents.did-finish-load web1
+2024-12-13T23:04:55.122Z 5: ✅ webContents.created web2 ""
+2024-12-13T23:04:55.130Z 6: ✅ window.created win2 "Discord"
+2024-12-13T23:04:58.555Z 7: ✅ webContents.did-finish-load web2
+2024-12-13T23:04:58.657Z 8: window.close win1
+2024-12-13T23:04:58.676Z 9: webContents.destroyed web1
+2024-12-13T23:04:58.678Z 10: window.closed win1
+2024-12-13T23:05:54.090Z 11: window.close win2
+2024-12-13T23:05:54.093Z 12: before-quit
+2024-12-13T23:05:54.096Z 13: window.close win2
+2024-12-13T23:05:54.347Z 14: webContents.destroyed web2
+2024-12-14T09:59:37.790Z 0: 
+
+----------------------------------------------
+2024-12-14T09:59:37.805Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.77"}, modulepath: /home/Coldwire/.config/discord/0.0.77/modules
+2024-12-14T09:59:37.810Z 2: ✅ webContents.created web1 "index.html"
+2024-12-14T09:59:37.812Z 3: ✅ window.created win1 "discord"
+2024-12-14T09:59:38.054Z 4: ✅ webContents.did-finish-load web1
+2024-12-14T09:59:38.512Z 5: ✅ webContents.created web2 ""
+2024-12-14T09:59:38.519Z 6: ✅ window.created win2 "Discord"
+2024-12-14T09:59:44.403Z 7: ✅ webContents.did-finish-load web2
+2024-12-14T09:59:44.507Z 8: window.close win1
+2024-12-14T09:59:44.533Z 9: webContents.destroyed web1
+2024-12-14T09:59:44.535Z 10: window.closed win1
+2024-12-14T09:59:47.973Z 11: window.close win2
+2024-12-14T09:59:47.980Z 12: before-quit
+2024-12-14T09:59:47.983Z 13: window.close win2
+2024-12-14T09:59:48.040Z 14: webContents.destroyed web2
+2024-12-14T16:21:54.699Z 0: 
+
+----------------------------------------------
+2024-12-14T16:21:54.713Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.77"}, modulepath: /home/Coldwire/.config/discord/0.0.77/modules
+2024-12-14T16:21:54.719Z 2: ✅ webContents.created web1 "index.html"
+2024-12-14T16:21:54.721Z 3: ✅ window.created win1 "discord"
+2024-12-14T16:21:54.980Z 4: ✅ webContents.did-finish-load web1
+2024-12-14T16:21:55.535Z 5: ✅ webContents.created web2 ""
+2024-12-14T16:21:55.544Z 6: ✅ window.created win2 "Discord"
+2024-12-14T16:21:58.700Z 7: ✅ webContents.did-finish-load web2
+2024-12-14T16:21:58.803Z 8: window.close win1
+2024-12-14T16:21:58.815Z 9: webContents.destroyed web1
+2024-12-14T16:21:58.818Z 10: window.closed win1
+2024-12-14T16:22:35.686Z 11: window.close win2
+2024-12-14T16:22:35.691Z 12: before-quit
+2024-12-14T16:22:35.695Z 13: window.close win2
+2024-12-14T16:22:35.745Z 14: webContents.destroyed web2
+2024-12-15T14:28:18.664Z 0: 
+
+----------------------------------------------
+2024-12-15T14:28:18.691Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.77"}, modulepath: /home/Coldwire/.config/discord/0.0.77/modules
+2024-12-15T14:28:18.702Z 2: ✅ webContents.created web1 "index.html"
+2024-12-15T14:28:18.706Z 3: ✅ window.created win1 "discord"
+2024-12-15T14:28:19.049Z 4: ✅ webContents.did-finish-load web1
+2024-12-15T14:28:19.472Z 5: ✅ webContents.created web2 ""
+2024-12-15T14:28:19.483Z 6: ✅ window.created win2 "Discord"
+2024-12-15T14:28:23.539Z 7: ✅ webContents.did-finish-load web2
+2024-12-15T14:28:23.643Z 8: window.close win1
+2024-12-15T14:28:23.662Z 9: webContents.destroyed web1
+2024-12-15T14:28:23.664Z 10: window.closed win1
+2024-12-15T14:28:27.684Z 11: window.close win2
+2024-12-15T14:28:27.730Z 12: before-quit
+2024-12-16T12:33:29.037Z 0: 
+
+----------------------------------------------
+2024-12-16T12:33:29.058Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.77"}, modulepath: /home/Coldwire/.config/discord/0.0.77/modules
+2024-12-16T12:33:29.064Z 2: ✅ webContents.created web1 "index.html"
+2024-12-16T12:33:29.067Z 3: ✅ window.created win1 "discord"
+2024-12-16T12:33:29.352Z 4: ✅ webContents.did-finish-load web1
+2024-12-16T12:33:29.773Z 5: ✅ webContents.created web2 ""
+2024-12-16T12:33:29.783Z 6: ✅ window.created win2 "Discord"
+2024-12-16T12:33:32.676Z 7: ✅ webContents.did-finish-load web2
+2024-12-16T12:33:32.779Z 8: window.close win1
+2024-12-16T12:33:32.804Z 9: webContents.destroyed web1
+2024-12-16T12:33:32.806Z 10: window.closed win1
+2024-12-16T12:33:41.701Z 11: window.close win2
+2024-12-16T12:33:41.711Z 12: before-quit
+2024-12-16T12:33:41.717Z 13: window.close win2
+2024-12-16T12:33:42.009Z 14: webContents.destroyed web2
+2024-12-16T12:36:44.312Z 0: 
+
+----------------------------------------------
+2024-12-16T12:36:44.326Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.77"}, modulepath: /home/Coldwire/.config/discord/0.0.77/modules
+2024-12-16T12:36:44.332Z 2: ✅ webContents.created web1 "index.html"
+2024-12-16T12:36:44.334Z 3: ✅ window.created win1 "discord"
+2024-12-16T12:36:44.599Z 4: ✅ webContents.did-finish-load web1
+2024-12-16T12:36:45.114Z 5: ✅ webContents.created web2 ""
+2024-12-16T12:36:45.124Z 6: ✅ window.created win2 "Discord"
+2024-12-16T12:36:47.978Z 7: ✅ webContents.did-finish-load web2
+2024-12-16T12:36:48.079Z 8: window.close win1
+2024-12-16T12:36:48.104Z 9: webContents.destroyed web1
+2024-12-16T12:36:48.107Z 10: window.closed win1
+2024-12-16T12:39:37.577Z 11: window.close win2
+2024-12-16T12:39:37.587Z 12: before-quit
+2024-12-16T12:39:37.590Z 13: window.close win2
+2024-12-16T12:39:37.792Z 14: webContents.destroyed web2
+2024-12-16T15:19:51.937Z 0: 
+
+----------------------------------------------
+2024-12-16T15:19:51.954Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.77"}, modulepath: /home/Coldwire/.config/discord/0.0.77/modules
+2024-12-16T15:19:51.959Z 2: ✅ webContents.created web1 "index.html"
+2024-12-16T15:19:51.963Z 3: ✅ window.created win1 "discord"
+2024-12-16T15:19:52.212Z 4: ✅ webContents.did-finish-load web1
+2024-12-16T15:19:52.605Z 5: ✅ webContents.created web2 ""
+2024-12-16T15:19:52.615Z 6: ✅ window.created win2 "Discord"
+2024-12-16T15:19:55.084Z 7: ✅ webContents.did-finish-load web2
+2024-12-16T15:19:55.188Z 8: window.close win1
+2024-12-16T15:19:55.215Z 9: webContents.destroyed web1
+2024-12-16T15:19:55.220Z 10: window.closed win1
+2024-12-16T15:19:58.077Z 11: window.close win2
+2024-12-16T15:19:58.083Z 12: before-quit
+2024-12-16T15:19:58.085Z 13: window.close win2
+2024-12-16T15:19:58.196Z 14: webContents.destroyed web2
+2024-12-16T15:22:55.283Z 0: 
+
+----------------------------------------------
+2024-12-16T15:22:55.298Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.77"}, modulepath: /home/Coldwire/.config/discord/0.0.77/modules
+2024-12-16T15:22:55.303Z 2: ✅ webContents.created web1 "index.html"
+2024-12-16T15:22:55.306Z 3: ✅ window.created win1 "discord"
+2024-12-16T15:22:55.556Z 4: ✅ webContents.did-finish-load web1
+2024-12-16T15:22:56.200Z 5: ✅ webContents.created web2 ""
+2024-12-16T15:22:56.208Z 6: ✅ window.created win2 "Discord"
+2024-12-16T15:22:58.959Z 7: ✅ webContents.did-finish-load web2
+2024-12-16T15:22:59.062Z 8: window.close win1
+2024-12-16T15:22:59.087Z 9: webContents.destroyed web1
+2024-12-16T15:22:59.094Z 10: window.closed win1
+2024-12-16T15:23:02.266Z 11: window.close win2
+2024-12-16T15:23:02.274Z 12: before-quit
+2024-12-16T15:23:02.277Z 13: window.close win2
+2024-12-16T15:23:02.326Z 14: webContents.destroyed web2
+2024-12-16T15:51:02.043Z 0: 
+
+----------------------------------------------
+2024-12-16T15:51:02.058Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.77"}, modulepath: /home/Coldwire/.config/discord/0.0.77/modules
+2024-12-16T15:51:02.064Z 2: ✅ webContents.created web1 "index.html"
+2024-12-16T15:51:02.067Z 3: ✅ window.created win1 "discord"
+2024-12-16T15:51:02.333Z 4: ✅ webContents.did-finish-load web1
+2024-12-16T15:51:02.701Z 5: ✅ webContents.created web2 ""
+2024-12-16T15:51:02.713Z 6: ✅ window.created win2 "Discord"
+2024-12-16T15:51:05.063Z 7: ✅ webContents.did-finish-load web2
+2024-12-16T15:51:05.166Z 8: window.close win1
+2024-12-16T15:51:05.182Z 9: webContents.destroyed web1
+2024-12-16T15:51:05.188Z 10: window.closed win1
+2024-12-16T15:51:08.400Z 11: window.close win2
+2024-12-16T15:51:08.410Z 12: before-quit
+2024-12-16T15:51:08.414Z 13: window.close win2
+2024-12-16T15:51:08.460Z 14: webContents.destroyed web2

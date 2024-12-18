@@ -1,0 +1,8 @@
+2024/12/16-15:51:01.836 35e54 Reusing MANIFEST /home/Coldwire/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/12/16-15:51:01.851 35e54 Recovering log #383
+2024/12/16-15:51:01.863 35e54 Level-0 table #385: started
+2024/12/16-15:51:01.884 35e54 Level-0 table #385: 851481 bytes OK
+2024/12/16-15:51:01.885 35e54 Recovering log #385
+2024/12/16-15:51:01.886 35e54 Reusing old log /home/Coldwire/.config/discord/Local Storage/leveldb/000385.log 
+2024/12/16-15:51:01.892 35e54 Delete type=0 #383
+2024/12/16-15:51:01.893 35e54 Delete type=2 #386

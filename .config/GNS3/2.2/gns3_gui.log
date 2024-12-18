@@ -1,0 +1,7 @@
+2024-10-03 23:19:06 INFO logger.py:126 Log level: INFO
+2024-10-03 23:19:06 INFO main.py:265 GNS3 GUI version 2.2.49
+2024-10-03 23:19:06 INFO main.py:266 Copyright (c) 2007-2024 GNS3 Technologies Inc.
+2024-10-03 23:19:06 INFO main.py:267 Application started with /sbin/gns3
+2024-10-03 23:19:08 CRITICAL __init__.py:284 Project "untitled" is opened, it cannot be overwritten
+2024-10-03 23:21:23 CRITICAL __init__.py:714 Cannot install Cisco 1700 version 124-25d: File c1700-adventerprisek9-mz.124-25d.image with checksum 7f4ae12a098391bc0edcaf4f44caaf9d not found for Cisco 1700
+2024-10-03 23:21:36 CRITICAL __init__.py:714 Cannot install Cisco 1700 version 124-25d: File c1700-adventerprisek9-mz.124-25d.image with checksum 7f4ae12a098391bc0edcaf4f44caaf9d not found for Cisco 1700

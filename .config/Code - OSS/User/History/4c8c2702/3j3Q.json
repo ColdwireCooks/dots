@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "editor.fontSize": 18,
+    "workbench.settings.applyToAllProfiles": [
+        "editor.fontSize"
+    ],
+    "files.autoSave": "onFocusChange"
+}

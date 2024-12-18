@@ -1,0 +1,12 @@
+09:15:52: Tenacity 1.3.3
+09:15:52: Warning: Cannot set locale to language "English".
+09:15:55: Error: Failed to load shared library 'libavformat.so.60': libavformat.so.60: cannot open shared object file: No such file or directory
+09:15:55: Error: Failed to load libavformat.so.60 ((null))
+09:15:55: Error: Failed to load shared library 'libavformat.so.59': libavformat.so.59: cannot open shared object file: No such file or directory
+09:15:55: Error: Failed to load libavformat.so.59 ((null))
+09:16:11: File name is /home/Coldwire/Downloads/penguin (very emotional).mp3
+09:16:11: Mime type is *
+09:16:11: Opening with libmad
+09:16:11: Open(/home/Coldwire/Downloads/penguin (very emotional).mp3) succeeded
+09:16:11: Error: Tag rejected (Non-ascii character in name)
+09:16:11: Error: Tag rejected (Non-ascii character in name)

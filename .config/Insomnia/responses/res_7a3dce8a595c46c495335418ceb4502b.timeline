@@ -1,0 +1,33 @@
+{"value":"Preparing request to http://localhost:8000/api/add-consultation/","name":"Text","timestamp":1734798425219}
+{"value":"Current time is 2024-12-21T16:27:05.219Z","name":"Text","timestamp":1734798425219}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1734798425219}
+{"value":"Using default HTTP version","name":"Text","timestamp":1734798425219}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1734798425219}
+{"value":"Enable SSL validation","name":"Text","timestamp":1734798425219}
+{"name":"Text","value":"Found bundle for host: 0x38fc03a5fec0 [serially]\n","timestamp":1734798425219}
+{"name":"Text","value":"Can not multiplex, even if we wanted to\n","timestamp":1734798425219}
+{"name":"Text","value":"Re-using existing connection #40 with host localhost\n","timestamp":1734798425219}
+{"name":"Text","value":"Connected to localhost (127.0.0.1) port 8000 (#40)\n","timestamp":1734798425220}
+{"name":"HeaderOut","value":"POST /api/add-consultation/ HTTP/1.1\r\nHost: localhost:8000\r\nContent-Type: application/json\r\nUser-Agent: insomnia/10.2.0\r\nAccept: */*\r\nContent-Length: 183\r\n\r\n","timestamp":1734798425220}
+{"name":"DataOut","value":"{\n    \"dpi_id\": 1,\n    \"medecin_id\": 3,\n    \"date_cons\": \"2024-12-21\",\n    \"diagnostic\": \"Hypertension\",\n    \"resume\": \"Initial consultation, prescribed blood pressure monitoring.\"\n}\n","timestamp":1734798425220}
+{"name":"Text","value":"Mark bundle as not supporting multiuse\n","timestamp":1734798425293}
+{"name":"HeaderIn","value":"HTTP/1.1 500 Internal Server Error\r\n","timestamp":1734798425293}
+{"name":"HeaderIn","value":"Date: Sat, 21 Dec 2024 16:27:05 GMT\r\n","timestamp":1734798425293}
+{"name":"HeaderIn","value":"Server: WSGIServer/0.2 CPython/3.12.7\r\n","timestamp":1734798425293}
+{"name":"HeaderIn","value":"Content-Type: text/html; charset=utf-8\r\n","timestamp":1734798425293}
+{"name":"HeaderIn","value":"X-Frame-Options: DENY\r\n","timestamp":1734798425293}
+{"name":"HeaderIn","value":"Content-Length: 121940\r\n","timestamp":1734798425293}
+{"name":"HeaderIn","value":"Vary: Cookie, origin\r\n","timestamp":1734798425293}
+{"name":"HeaderIn","value":"X-Content-Type-Options: nosniff\r\n","timestamp":1734798425293}
+{"name":"HeaderIn","value":"Referrer-Policy: same-origin\r\n","timestamp":1734798425293}
+{"name":"HeaderIn","value":"Cross-Origin-Opener-Policy: same-origin\r\n","timestamp":1734798425293}
+{"name":"HeaderIn","value":"\r\n","timestamp":1734798425293}
+{"name":"Text","value":"Received 15.8 KB chunk","timestamp":1734798425293}
+{"name":"Text","value":"Received 16 KB chunk","timestamp":1734798425293}
+{"name":"Text","value":"Received 16 KB chunk","timestamp":1734798425293}
+{"name":"Text","value":"Received 16 KB chunk","timestamp":1734798425293}
+{"name":"Text","value":"Received 16 KB chunk","timestamp":1734798425293}
+{"name":"Text","value":"Received 16 KB chunk","timestamp":1734798425294}
+{"name":"Text","value":"Received 16 KB chunk","timestamp":1734798425294}
+{"name":"Text","value":"Received 7.3 KB chunk","timestamp":1734798425294}
+{"name":"Text","value":"Connection #40 to host localhost left intact\n","timestamp":1734798425294}

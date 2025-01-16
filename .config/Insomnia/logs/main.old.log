@@ -1,0 +1,392 @@
+[2024-12-21 10:12:03.462] [info]  Running version 10.2.0
+[2024-12-21 10:12:03.493] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
+[2024-12-21 10:12:03.517] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+[2024-12-21 10:12:03.572] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+'
+[2024-12-21 10:12:04.142] [info]  [fix] Running database repairs
+[2024-12-21 10:12:04.299] [info]  [db] Initialized DB at /home/Coldwire/.config/Insomnia/insomnia.$TYPE.db
+[2024-12-21 10:12:04.300] [info]  [db] Init responses DB
+[2024-12-21 10:12:04.300] [info]  [db] Init websocket-responses DB
+[2024-12-21 10:12:04.305] [info]  [main] Initializing Scratch Pad Project
+[2024-12-21 10:12:04.306] [info]  [main] Initializing Scratch Pad
+[2024-12-21 10:12:04.307] [info]  [localstorage] Initialized at /home/Coldwire/.config/Insomnia/localStorage
+[2024-12-21 10:12:04.346] [info]  [main] Loading file:///opt/insomnia/resources/app.asar/index.html
+[2024-12-21 10:12:04.357] [info]  [main] Registering the hidden window restarting handler
+[2024-12-21 10:12:04.358] [info]  [updater] Not supported on this platform linux
+[2024-12-21 10:12:04.476] [info]  [main] window focus
+[2024-12-21 10:12:05.822] [info]  [main] Window ready, handling command line arguments [ '/opt/insomnia/insomnia' ]
+[2024-12-21 10:12:05.826] [info]  [main] Check args and create windows []
+[2024-12-21 10:12:05.827] [info]  [main] Checking for newer version than  10.2.0
+[2024-12-21 10:12:06.221] [info]  [main] window blur
+[2024-12-21 10:12:06.956] [info]  [main] Found newer version
+[2024-12-21 10:12:06.966] [info]  [main] Exported backup to: /home/Coldwire/.config/Insomnia/backups/10.2.0
+[2024-12-21 10:12:13.068] [info]  [main] window focus
+[2024-12-21 10:13:21.493] [info]  [main] window blur
+[2024-12-21 10:13:53.455] [info]  [main] window focus
+[2024-12-21 10:14:05.648] [info]  [main] window blur
+[2024-12-21 10:14:22.288] [info]  [main] window focus
+[2024-12-21 10:14:52.080] [info]  [main] window blur
+[2024-12-21 10:15:18.371] [info]  [main] window focus
+[2024-12-21 10:15:22.354] [info]  [main] window blur
+[2024-12-21 10:15:46.449] [info]  [main] window focus
+[2024-12-21 10:15:52.699] [info]  [main] window blur
+[2024-12-21 10:16:00.664] [info]  [main] window focus
+[2024-12-21 10:16:08.741] [info]  [main] window blur
+[2024-12-21 10:16:11.640] [info]  [main] window focus
+[2024-12-21 10:17:35.448] [info]  [main] window blur
+[2024-12-21 10:17:39.379] [info]  [main] window focus
+[2024-12-21 10:17:40.160] [info]  [main] window blur
+[2024-12-21 10:18:00.366] [info]  [main] window focus
+[2024-12-21 10:18:06.323] [info]  [main] window blur
+[2024-12-21 10:18:36.508] [info]  [main] window focus
+[2024-12-21 10:18:38.277] [info]  [main] window blur
+[2024-12-21 10:18:38.278] [info]  [main] window focus
+[2024-12-21 10:18:38.279] [info]  [main] window blur
+[2024-12-21 10:18:38.280] [info]  [main] window focus
+[2024-12-21 10:18:43.277] [info]  [main] window blur
+[2024-12-21 10:21:50.414] [info]  [main] window focus
+[2024-12-21 10:21:56.640] [info]  [main] window blur
+[2024-12-21 10:26:43.864] [info]  [main] window focus
+[2024-12-21 10:26:59.910] [info]  [main] window blur
+[2024-12-21 10:27:59.802] [info]  [main] window focus
+[2024-12-21 10:31:54.440] [info]  [main] window blur
+[2024-12-21 10:31:54.442] [info]  [main] window focus
+[2024-12-21 10:31:55.008] [info]  [main] window blur
+[2024-12-21 10:31:55.009] [info]  [main] window focus
+[2024-12-21 10:32:06.498] [info]  [main] window blur
+[2024-12-21 10:33:10.524] [info]  [main] window focus
+[2024-12-21 10:33:20.918] [info]  [main] window blur
+[2024-12-21 10:34:04.232] [info]  [main] window focus
+[2024-12-21 10:34:55.936] [info]  [main] window blur
+[2024-12-21 10:35:07.137] [info]  [main] window focus
+[2024-12-21 10:35:11.899] [info]  [main] window blur
+[2024-12-21 10:35:57.586] [info]  [main] window focus
+[2024-12-21 10:36:08.475] [info]  [main] window blur
+[2024-12-21 10:38:22.890] [info]  [main] window focus
+[2024-12-21 10:38:28.362] [info]  [main] window blur
+[2024-12-21 10:41:03.590] [info]  [main] window focus
+[2024-12-21 10:41:07.992] [info]  [main] window blur
+[2024-12-21 10:41:13.134] [info]  [main] window focus
+[2024-12-21 10:41:13.141] [info]  [main] window blur
+[2024-12-21 10:41:13.142] [info]  [main] window focus
+[2024-12-21 10:41:13.358] [info]  [main] window blur
+[2024-12-21 10:46:35.326] [info]  [main] window focus
+[2024-12-21 10:46:40.936] [info]  [main] window blur
+[2024-12-21 10:46:45.933] [info]  [main] window focus
+[2024-12-21 10:46:49.395] [info]  [main] window blur
+[2024-12-21 10:47:41.224] [info]  [main] window focus
+[2024-12-21 10:47:45.029] [info]  [main] window blur
+[2024-12-21 10:47:47.725] [info]  [main] window focus
+[2024-12-21 10:47:48.304] [info]  [main] window blur
+[2024-12-21 10:49:25.744] [info]  [main] window focus
+[2024-12-21 10:49:26.506] [info]  [main] window blur
+[2024-12-21 10:50:33.852] [info]  [main] window focus
+[2024-12-21 10:50:47.637] [info]  [main] window blur
+[2024-12-21 10:51:26.417] [info]  [main] window focus
+[2024-12-21 10:51:32.259] [info]  [main] window blur
+[2024-12-21 10:52:43.030] [info]  [main] window focus
+[2024-12-21 10:52:44.809] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_a1e8d8970f00430689fa4ff786f4d574.timeline
+[2024-12-21 10:52:44.810] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/217e0763-3d45-45bc-bb2b-0b4a82132a8c.response
+[2024-12-21 10:52:46.044] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/3ddf8efc-d967-4d0f-acc1-f23558c185a9.response
+[2024-12-21 10:52:46.045] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_29b6a906b5814c2597ae940dccf557c8.timeline
+[2024-12-21 10:52:46.815] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_33148c5f31d74267bc7d244e569a8486.timeline
+[2024-12-21 10:52:46.815] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/f86cae0e-44f5-4c65-8a06-f4aba22881a6.response
+[2024-12-21 10:52:47.504] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/aa1136a2-d65b-44a1-bd3b-8fda45e4347d.response
+[2024-12-21 10:52:47.504] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_116647c357d04daba257d66a3a5c0dcd.timeline
+[2024-12-21 10:52:48.688] [info]  [main] window blur
+[2024-12-21 10:52:52.710] [info]  [main] window focus
+[2024-12-21 10:52:52.716] [info]  [main] window blur
+[2024-12-21 10:52:52.717] [info]  [main] window focus
+[2024-12-21 10:52:52.795] [info]  [main] window blur
+[2024-12-21 10:53:17.350] [info]  [main] window focus
+[2024-12-21 10:53:18.867] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/2132f82c-3170-4fac-af8d-ad918a6754ec.response
+[2024-12-21 10:53:18.867] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_814b16bd74cb42ca9edf5b302cc0c380.timeline
+[2024-12-21 10:53:19.774] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_b653a86924104bccaf9a790672d1fc5c.timeline
+[2024-12-21 10:53:19.774] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/4aaf3f9e-07a4-4492-b9fd-243955ae69c9.response
+[2024-12-21 10:53:30.664] [info]  [main] window blur
+[2024-12-21 10:58:23.933] [info]  [main] window focus
+[2024-12-21 10:58:26.061] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/7ff556f1-8879-4371-ba7d-71d8d2fea00d.response
+[2024-12-21 10:58:26.061] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_88b580480d4b4c9a88deeae4dec5801d.timeline
+[2024-12-21 10:58:28.762] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/9c05ab7f-b6a2-4a97-82a3-92a0a56ad976.response
+[2024-12-21 10:58:28.763] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_3f360247ff934b0ca4a7ab61610a1b13.timeline
+[2024-12-21 10:58:29.621] [info]  [main] window blur
+[2024-12-21 10:58:30.181] [info]  [main] window focus
+[2024-12-21 10:58:31.597] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_0dc5de3745a64dd6b789d29c1e4cec19.timeline
+[2024-12-21 10:58:31.597] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/b8cf981b-7c04-496c-9fb2-66c72e9e4b99.response
+[2024-12-21 10:58:32.674] [info]  [main] window blur
+[2024-12-21 10:58:55.177] [info]  [main] window focus
+[2024-12-21 10:58:57.159] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_2332c4a12d384406a71b90876c13cc9c.timeline
+[2024-12-21 10:58:57.159] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/dca905fc-bdf7-4e3f-a711-1d88261da987.response
+[2024-12-21 10:58:57.988] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_214e3a6c3977405aafc856a1ca88302c.timeline
+[2024-12-21 10:58:57.988] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/a9f62456-fb65-4dd9-b775-f8676c817a9c.response
+[2024-12-21 10:59:00.211] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_f6c2d78a96dd408bb99a9900041fd520.timeline
+[2024-12-21 10:59:00.212] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/79d3aac2-c030-4e18-b28e-d42d2a194640.response
+[2024-12-21 10:59:01.990] [info]  [main] window blur
+[2024-12-21 11:00:56.899] [info]  [main] window focus
+[2024-12-21 11:00:58.440] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_05e4bc31f2cb4318a97f65aadc25c46d.timeline
+[2024-12-21 11:00:58.440] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/307e93f5-e0fd-4970-bedf-91fd74e541c6.response
+[2024-12-21 11:01:05.515] [info]  [main] window blur
+[2024-12-21 11:18:13.214] [info]  [main] window focus
+[2024-12-21 11:18:16.578] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_3c9fa1dfe8fa49bfa8a343a176829095.timeline
+[2024-12-21 11:18:16.578] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/5b054e61-fa42-4b11-958f-c8b77f1f145b.response
+[2024-12-21 11:18:17.505] [info]  [main] window blur
+[2024-12-21 11:18:24.745] [info]  [main] window focus
+[2024-12-21 11:18:26.104] [info]  [db] Delete hook failed for remove res_007c9623c13e4d5ea2c6313c9873e48c: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2024-12-21 11:18:28.817] [info]  [main] window blur
+[2024-12-21 11:18:30.734] [info]  [main] window focus
+[2024-12-21 11:18:32.303] [info]  [main] window blur
+[2024-12-21 11:18:36.177] [info]  [main] window focus
+[2024-12-21 11:18:37.294] [info]  [main] window blur
+[2024-12-21 11:18:37.300] [info]  [main] window focus
+[2024-12-21 11:18:37.388] [info]  [main] window blur
+[2024-12-21 11:18:39.464] [info]  [main] window focus
+[2024-12-21 11:18:39.646] [info]  [main] window blur
+[2024-12-21 11:18:39.823] [info]  [main] window focus
+[2024-12-21 11:18:40.833] [info]  [main] window blur
+[2024-12-21 11:18:59.481] [info]  [main] window focus
+[2024-12-21 11:19:00.106] [info]  [main] window blur
+[2024-12-21 11:21:01.592] [info]  [main] window focus
+[2024-12-21 11:21:02.620] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/8fec5678-0efe-4823-9696-ee46762b92ec.response
+[2024-12-21 11:21:02.620] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_2ed983e08f28412ca999e77f316a83a0.timeline
+[2024-12-21 11:21:03.291] [info]  [main] window blur
+[2024-12-21 11:21:03.623] [info]  [main] window focus
+[2024-12-21 11:21:04.288] [info]  [main] window blur
+[2024-12-21 11:23:46.185] [info]  [main] window focus
+[2024-12-21 11:23:46.494] [info]  [main] window blur
+[2024-12-21 11:23:46.821] [info]  [main] window focus
+[2024-12-21 11:23:48.265] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_227c8e9f89364cc994927a53dba9a2b0.timeline
+[2024-12-21 11:23:48.266] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/64bf2fc1-5b92-4ad4-a0ba-f3cd3aeb2a47.response
+[2024-12-21 11:23:49.327] [info]  [main] window blur
+[2024-12-21 11:24:00.669] [info]  [main] window focus
+[2024-12-21 11:24:02.079] [info]  [main] window blur
+[2024-12-21 11:26:06.340] [info]  [main] window focus
+[2024-12-21 11:26:06.976] [info]  [main] window blur
+[2024-12-21 11:27:53.422] [info]  [main] window focus
+[2024-12-21 11:27:56.924] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_2bea61e738f24282b6912f13065a816d.timeline
+[2024-12-21 11:27:56.924] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/889ffee2-e061-4465-9af8-895ccfad2ba2.response
+[2024-12-21 11:28:01.380] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/5a24e5a5-f313-4ae6-a05e-c0bbc843064f.response
+[2024-12-21 11:28:01.381] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_899307e941394d62872bf8533fd04c16.timeline
+[2024-12-21 11:28:03.157] [info]  [main] window blur
+[2024-12-21 11:28:48.357] [info]  [main] window focus
+[2024-12-21 11:28:49.948] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/5888c3f0-92c7-4b35-9c07-050fe46885e3.response
+[2024-12-21 11:28:49.949] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_c247f64fba35420ab35d50e21da3b01f.timeline
+[2024-12-21 11:28:52.251] [info]  [main] window blur
+[2024-12-21 11:28:59.232] [info]  [main] window focus
+[2024-12-21 11:29:02.510] [info]  [main] window blur
+[2024-12-21 11:29:15.048] [info]  [main] window focus
+[2024-12-21 11:29:16.675] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/5004c7cb-0df9-4e12-8308-b3b7f8aeed58.response
+[2024-12-21 11:29:16.675] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_93288d36ab444cba9ed0e2d65117bbbf.timeline
+[2024-12-21 11:29:18.221] [info]  [main] window blur
+[2024-12-21 11:30:29.934] [info]  [main] window focus
+[2024-12-21 11:30:30.580] [info]  [main] window blur
+[2024-12-21 14:18:19.000] [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2024-12-21 14:18:19.005] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2024-12-21 14:18:22.019] [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2024-12-21 14:18:22.025] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2024-12-21 14:44:31.090] [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2024-12-21 14:44:31.096] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2024-12-21 14:44:38.813] [info]  [main] window focus
+[2024-12-21 14:44:40.074] [info]  [main] window blur
+[2024-12-21 15:02:43.120] [info]  [main] window focus
+[2024-12-21 15:02:48.461] [info]  [main] window blur
+[2024-12-21 15:02:49.580] [info]  [main] window focus
+[2024-12-21 15:02:51.682] [info]  [db] Delete hook failed for remove res_af665f3901ae4956819e360d0c590216: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2024-12-21 15:03:05.251] [info]  [db] Delete hook failed for remove res_042a572e43b34c358a4b6792f01b2664: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2024-12-21 15:03:07.875] [info]  [main] window blur
+[2024-12-21 15:03:14.161] [info]  [main] window focus
+[2024-12-21 15:03:20.172] [info]  [main] window blur
+[2024-12-21 15:03:23.757] [info]  [main] window focus
+[2024-12-21 15:03:23.765] [info]  [main] window blur
+[2024-12-21 15:03:23.766] [info]  [main] window focus
+[2024-12-21 15:03:27.045] [info]  [main] window blur
+[2024-12-21 15:04:00.957] [info]  [main] window focus
+[2024-12-21 15:04:02.462] [info]  [db] Delete hook failed for remove res_d78e0af177e44dc98dc6fc4e629b687c: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2024-12-21 15:04:03.219] [info]  [db] Delete hook failed for remove res_0185932c415c4f8993ba05a457bba9a3: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2024-12-21 15:04:13.503] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_28ef7b672b6649b198e525cad0da0a86.timeline
+[2024-12-21 15:04:13.503] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/e8ded98b-3e4c-4c0d-91aa-bcfad0558604.response
+[2024-12-21 15:04:18.596] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/41798f35-1b28-4282-a271-f7ee96bfd3b4.response
+[2024-12-21 15:04:18.597] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_e5d69884fe1145be83c7b3630df896e8.timeline
+[2024-12-21 15:04:19.184] [info]  [main] window blur
+[2024-12-21 15:04:39.366] [info]  [main] window focus
+[2024-12-21 15:04:55.039] [info]  [main] window blur
+[2024-12-21 15:05:46.744] [info]  [main] window focus
+[2024-12-21 15:05:51.374] [info]  [main] window blur
+[2024-12-21 15:05:55.652] [info]  [main] window focus
+[2024-12-21 15:06:00.025] [info]  [main] window blur
+[2024-12-21 15:06:02.057] [info]  [main] window focus
+[2024-12-21 15:06:04.204] [info]  [main] window blur
+[2024-12-21 15:06:05.251] [info]  [main] window focus
+[2024-12-21 15:06:11.529] [info]  [main] window blur
+[2024-12-21 15:06:44.267] [info]  [main] window focus
+[2024-12-21 15:06:48.946] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_ef59e4ec86f54e4d86d9d14d90489a09.timeline
+[2024-12-21 15:06:48.946] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/4282fe11-1144-428c-961d-3b8a778f1b79.response
+[2024-12-21 15:06:54.234] [info]  [main] window blur
+[2024-12-21 15:07:27.865] [info]  [main] window focus
+[2024-12-21 15:07:29.852] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_92132b2bb3d3446586ead26ae75ce897.timeline
+[2024-12-21 15:07:29.853] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/76c2bacd-6aab-46cb-bed9-add793851e8d.response
+[2024-12-21 15:07:31.365] [info]  [main] window blur
+[2024-12-21 15:07:32.966] [info]  [main] window focus
+[2024-12-21 15:07:59.602] [info]  [main] window blur
+[2024-12-21 15:09:58.587] [info]  [main] window focus
+[2024-12-21 15:09:59.439] [info]  [main] window blur
+[2024-12-21 15:18:11.739] [info]  [main] window focus
+[2024-12-21 15:18:13.457] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_531a1cb06012467e94ec3eae586b5ac7.timeline
+[2024-12-21 15:18:13.457] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/9ea9950d-f2bc-4648-a651-28d1adfdd5ad.response
+[2024-12-21 15:18:20.859] [info]  [main] window blur
+[2024-12-21 15:18:43.561] [info]  [main] window focus
+[2024-12-21 15:18:45.024] [info]  [main] window blur
+[2024-12-21 15:18:45.863] [info]  [main] window focus
+[2024-12-21 15:18:48.255] [info]  [main] window blur
+[2024-12-21 15:18:49.759] [info]  [main] window focus
+[2024-12-21 15:18:50.456] [info]  [main] window blur
+[2024-12-21 15:18:53.892] [info]  [main] window focus
+[2024-12-21 15:18:54.302] [info]  [main] window blur
+[2024-12-21 15:19:03.894] [info]  [main] window focus
+[2024-12-21 15:19:12.235] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/a7340a6e-f01f-44a5-869e-793d279347fd.response
+[2024-12-21 15:19:12.235] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_1765f70a258e491886e02577bbcf7208.timeline
+[2024-12-21 15:19:22.080] [info]  [main] window blur
+[2024-12-21 15:20:20.347] [info]  [main] window focus
+[2024-12-21 15:20:27.943] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_da327396fae54065b1231084f3d7ebc5.timeline
+[2024-12-21 15:20:27.944] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/9aa2d070-b131-4773-af4d-31ba85249c73.response
+[2024-12-21 15:20:33.396] [info]  [main] window blur
+[2024-12-21 15:25:16.567] [info]  [main] window focus
+[2024-12-21 15:25:18.415] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_d70a2d9df8c04515a057aa1a32536c05.timeline
+[2024-12-21 15:25:18.416] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/54fe2a46-2638-4e82-a612-09c62453e8bd.response
+[2024-12-21 15:25:21.350] [info]  [main] window blur
+[2024-12-21 15:25:29.602] [info]  [main] window focus
+[2024-12-21 15:25:29.609] [info]  [main] window blur
+[2024-12-21 15:25:29.610] [info]  [main] window focus
+[2024-12-21 15:25:29.674] [info]  [main] window blur
+[2024-12-21 15:27:56.146] [info]  [main] window focus
+[2024-12-21 15:28:18.350] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_5382f5e9c98b476d9109e42c1c04052c.timeline
+[2024-12-21 15:28:18.350] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/fda81f3e-d476-4d43-bbda-c8554906aa63.response
+[2024-12-21 15:28:20.702] [info]  [db] Delete hook failed for remove res_e9a9b9114d314db6b396fabdd39e4daa: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2024-12-21 15:28:21.591] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_8fa876817ba64da9ae83898aaf011765.timeline
+[2024-12-21 15:28:21.591] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/520ad3c1-57fe-45c2-9d40-b0e81e57e370.response
+[2024-12-21 15:28:22.270] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_bb97e4f988a9478ebb1f94504dadad40.timeline
+[2024-12-21 15:28:22.271] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/8814ecc4-e8a5-4558-93ae-3e69eca16faf.response
+[2024-12-21 15:28:22.616] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_16b0f2f02b2b4c6ebbcfc23e07d07da5.timeline
+[2024-12-21 15:28:22.617] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/caa942a2-4e7c-44eb-8b21-9b3269b52b35.response
+[2024-12-21 15:28:22.733] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_285758fbf0924c2bb2f3a98112221141.timeline
+[2024-12-21 15:28:22.734] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/6e1c7423-bdb9-46b8-9682-c9c8a0a0af98.response
+[2024-12-21 15:28:22.836] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/b35123f3-3de3-4fe2-850d-bc4d63928c6b.response
+[2024-12-21 15:28:22.836] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_992caff1188943bc99cf3319961da965.timeline
+[2024-12-21 15:28:23.049] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/bae7312b-93d0-44d8-b544-cf9adaf47c28.response
+[2024-12-21 15:28:23.049] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_8f0b418ce9f44f098f2e26b896ef17e8.timeline
+[2024-12-21 15:28:23.100] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_9a8bb3fa62ea426da6f61656545f4da7.timeline
+[2024-12-21 15:28:23.100] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/56b82cf7-b02f-424e-a959-3d3aa3bd0a81.response
+[2024-12-21 15:28:23.229] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_5ea37e16d59949f2b28676c7ad29e73a.timeline
+[2024-12-21 15:28:23.229] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/b27526d0-f07f-487c-8be5-dc6353bd5ef5.response
+[2024-12-21 15:28:23.332] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/e081a8bd-565d-4c4e-a33e-ef20a2e38ff9.response
+[2024-12-21 15:28:23.332] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_d422306309154234b93d76b3817aeb49.timeline
+[2024-12-21 15:28:23.516] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/771310c8-b54c-4ef8-bd54-e4a1731cd4d7.response
+[2024-12-21 15:28:23.516] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_82b614c9fa3d44bb9fa4054c2651a8b8.timeline
+[2024-12-21 15:28:23.571] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/2a9ead9b-a345-496c-9efe-6de7e6058e17.response
+[2024-12-21 15:28:23.572] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_6acf45e33836475c8b560c70b1a6c7b1.timeline
+[2024-12-21 15:28:23.681] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_def8295026034287ac0d97a30eac021b.timeline
+[2024-12-21 15:28:23.682] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/622cbf15-0a91-48ba-a2cf-df72ab9db1b7.response
+[2024-12-21 15:28:23.790] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/7e67babd-9d13-4310-a76f-74aa8ba29bbe.response
+[2024-12-21 15:28:23.790] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_c2c6434207de4178b6750b6b8e4cec74.timeline
+[2024-12-21 15:28:23.970] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/3458a4d1-f3ca-4dd1-a43a-e19a08fbebf1.response
+[2024-12-21 15:28:23.970] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_74f208388c0a42748222405ba3fb7e1c.timeline
+[2024-12-21 15:28:24.054] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/0aae2079-a92a-4adb-898c-6e741e5f252f.response
+[2024-12-21 15:28:24.054] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_82b0c39da6c54ce6b84b255fa69b9ab6.timeline
+[2024-12-21 15:28:24.168] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/7c972a43-f454-410d-84ae-04d3a9429d59.response
+[2024-12-21 15:28:24.168] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_8c03bd895fea4fbabb795380885a7f8e.timeline
+[2024-12-21 15:28:24.353] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/5065e3f6-f2de-47d5-8bca-3768c436840c.response
+[2024-12-21 15:28:24.353] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_91475e1801d4495db8983e0610549904.timeline
+[2024-12-21 15:28:24.665] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_2c4cdb8bb49046d0a1bfe9113f0fe7b6.timeline
+[2024-12-21 15:28:24.665] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/3efa864b-0d9e-4bfe-915d-fb8e09e0319d.response
+[2024-12-21 15:28:24.922] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_ca8be5d762e746d882c98dfa3d1f2b49.timeline
+[2024-12-21 15:28:24.922] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/070d02b4-e844-4964-98f1-34b66098de2f.response
+[2024-12-21 15:28:25.179] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/c75b8d8b-a0dd-4714-8923-49c9880ca049.response
+[2024-12-21 15:28:25.179] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_779d22aba1c24e1e941163d0ef45f134.timeline
+[2024-12-21 15:28:25.438] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_2f499d87ae1a4a41892536bff1013593.timeline
+[2024-12-21 15:28:25.439] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/95c0700d-a82f-4acd-b9bf-c2c35049f92d.response
+[2024-12-21 15:28:25.630] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_1084fd0959724fb3ab9e0338ab0e3ff5.timeline
+[2024-12-21 15:28:25.630] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/9f78fd1e-e028-46d7-81f3-8887cb3fc9fb.response
+[2024-12-21 15:28:25.841] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/f09127a5-a531-460a-953b-78e167280975.response
+[2024-12-21 15:28:25.842] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_b37f9694e274424e9b3740d2e466f842.timeline
+[2024-12-21 15:28:30.312] [info]  [main] window blur
+[2024-12-21 15:28:36.600] [info]  [main] window focus
+[2024-12-21 15:28:39.899] [info]  [main] window blur
+[2024-12-21 15:30:04.808] [info]  [main] window focus
+[2024-12-21 15:30:04.933] [info]  [main] window blur
+[2024-12-21 15:30:06.087] [info]  [main] window focus
+[2024-12-21 15:30:07.808] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/7e3e67e2-2936-4643-b6e5-9667fe3afc4d.response
+[2024-12-21 15:30:07.808] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_dce94fdf2e0847659cc64419af4bfa00.timeline
+[2024-12-21 15:30:10.621] [info]  [main] window blur
+[2024-12-21 15:30:18.236] [info]  [main] window focus
+[2024-12-21 15:30:21.387] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/4dbbc43f-f41a-4da2-ae32-952d2cdf703a.response
+[2024-12-21 15:30:21.391] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_6b0c9404c1ce4ad68ceba0a2d4992f28.timeline
+[2024-12-21 15:30:24.152] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/c2f1c8d6-90f3-4039-8578-e21fd1a1eefa.response
+[2024-12-21 15:30:24.153] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_76e31a33bb314c2cb36fcf44f0151b39.timeline
+[2024-12-21 15:30:29.188] [info]  [main] window blur
+[2024-12-21 16:00:20.092] [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2024-12-21 16:00:20.097] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2024-12-21 16:00:23.107] [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2024-12-21 16:00:23.109] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2024-12-21 16:00:34.415] [info]  [main] window focus
+[2024-12-21 16:00:37.420] [info]  [main] window blur
+[2024-12-21 16:02:43.107] [info]  [main] window focus
+[2024-12-21 16:02:44.992] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/48a614a3-d400-45c9-86f2-609bdfd9244d.response
+[2024-12-21 16:02:44.993] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_a6b1cfa510b1443da9fe926c20ef84e2.timeline
+[2024-12-21 16:02:47.423] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_d898faaa44514bf9928e6fba072d8ec8.timeline
+[2024-12-21 16:02:47.423] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/2b0481e4-063b-4062-a9c8-22d3bb26d460.response
+[2024-12-21 16:02:47.954] [info]  [main] window blur
+[2024-12-21 16:03:08.136] [info]  [main] window focus
+[2024-12-21 16:03:57.842] [info]  [main] window blur
+[2024-12-21 16:04:21.837] [info]  [main] window focus
+[2024-12-21 16:04:23.454] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_888d5b223cde4edab144d229ddbcb0af.timeline
+[2024-12-21 16:04:23.454] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/b78dc8a7-1b26-4b17-9a39-843c8798325b.response
+[2024-12-21 16:04:24.464] [info]  [main] window blur
+[2024-12-21 16:05:42.030] [info]  [main] window focus
+[2024-12-21 16:05:43.931] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_6ca69b2c7263491984c820fc95224849.timeline
+[2024-12-21 16:05:43.932] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/68e50093-ad06-45a7-ad82-5ffe82fd299e.response
+[2024-12-21 16:06:25.239] [info]  [main] window blur
+[2024-12-21 16:11:58.237] [info]  [main] window focus
+[2024-12-21 16:11:59.902] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/1ee3091f-5633-4196-ba3d-b709349c93bb.response
+[2024-12-21 16:11:59.903] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_202218f0407344f88473f5bc7282b781.timeline
+[2024-12-21 16:12:32.719] [info]  [main] window blur
+[2024-12-21 16:14:52.248] [info]  [main] window focus
+[2024-12-21 16:14:54.315] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_887de8eeac884dee8761664c7514e93d.timeline
+[2024-12-21 16:14:54.316] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/a87c022a-8bcf-4ab0-960c-65409fb415b8.response
+[2024-12-21 16:14:57.327] [info]  [main] window blur
+[2024-12-21 16:26:49.134] [info]  [main] window focus
+[2024-12-21 16:26:51.409] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_6e15bc53cca94726a7160e6564337584.timeline
+[2024-12-21 16:26:51.409] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/8d7c1df7-1d92-4c03-a7a5-3813dc3bd8cd.response
+[2024-12-21 16:27:05.338] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_1d381d8d91c04433bed29b1de54efe5a.timeline
+[2024-12-21 16:27:05.340] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/ea3f76b3-20c7-4548-bd80-7b7e346c542e.response
+[2024-12-21 16:27:05.762] [info]  [main] window blur
+[2024-12-21 16:27:29.672] [info]  [main] window focus
+[2024-12-21 16:27:31.793] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/f375148b-89d7-49d4-ad53-68a628b9c3b6.response
+[2024-12-21 16:27:31.794] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_8e1ddd94777147cbade730b51eb99859.timeline
+[2024-12-21 16:27:32.555] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/a4ccea88-597b-4011-bdec-36f6a442d0c5.response
+[2024-12-21 16:27:32.555] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_8f11f0b8f1a44f21b187c6dcf4043a5c.timeline
+[2024-12-21 16:27:33.468] [info]  [main] window blur
+[2024-12-21 16:27:53.259] [info]  [main] window focus
+[2024-12-21 16:27:54.905] [info]  [response] Delete timeline /home/Coldwire/.config/Insomnia/responses/res_138a2f46b9b8411caade7c8618ee8360.timeline
+[2024-12-21 16:27:54.905] [info]  [response] Delete body /home/Coldwire/.config/Insomnia/responses/5ee2301c-82b2-4735-9b47-ca03859cbfb3.response
+[2024-12-21 16:27:55.942] [info]  [main] window blur
+[2024-12-21 16:27:59.409] [info]  [main] window focus
+[2024-12-21 16:28:00.993] [info]  [main] window blur

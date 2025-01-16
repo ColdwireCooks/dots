@@ -1,0 +1,14 @@
+[source]
+name=QEMU Session
+type=libvirt
+uri=qemu+unix:///session
+save-on-quit=true
+
+[display 4ef6c6c7-9a97-4c7d-affd-efd3e49c63fe]
+last-seen-name=win10
+uuid=4ef6c6c7-9a97-4c7d-affd-efd3e49c63fe
+acceleration-3d=false
+run-in-bg=false
+access-last-time=1725723787730238
+access-ntimes=1
+access-total-time=276

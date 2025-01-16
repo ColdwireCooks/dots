@@ -1,0 +1,462 @@
+[2024-12-21 16:32:53.209] [info]  [db] Initialized DB client
+[2024-12-21 16:32:53.238] [info]  Redirecting to last visited project proj_96b1752652144a009161849020bea5f7
+[2024-12-21 16:32:53.403] [info]  [FileSystemDriver] Initialized in "/home/Coldwire/.config/Insomnia/version-control"
+[2024-12-21 16:32:53.406] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:32:53.406] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:32:53.407] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.07bdfd5c-a793-4dff-b6db-d0e26435ae5e.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:32:53.431] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:32:53.431] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:32:53.431] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.59b4e9b5-f035-476c-9697-be37edbb5d2e.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:32:54.479] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:32:54.480] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:32:54.480] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.dafd9e3f-617c-4c6f-882d-60c0a8cc1383.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:32:54.994] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:32:54.994] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:32:54.995] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.9cfed417-31fd-4f5b-86ff-6e84974dfbb4.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:32:58.180] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:32:58.180] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:32:58.181] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.4ff7ac47-9ced-48ec-8319-304c8517c3ca.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:33:00.230] [info]  [network] Response failed req=req_7561520cc9da46538d4ff26c44264913 err=Error: Couldn't connect to server
+[2024-12-21 16:33:00.230] [info]  [request] Failed to send request {
+  response: {
+    _id: 'res_d407e6e7e9a84a80b90f7273eb6f340c',
+    parentId: 'req_7561520cc9da46538d4ff26c44264913',
+    timelinePath: '/home/Coldwire/.config/Insomnia/responses/res_d407e6e7e9a84a80b90f7273eb6f340c.timeline',
+    contentType: '',
+    headers: [],
+    httpVersion: '',
+    statusCode: 0,
+    statusMessage: 'Error',
+    cookies: [],
+    error: "Error: Couldn't connect to server",
+    elapsedTime: 0.824,
+    environmentId: 'env_202d7a851601ae1d65b2e41011f6193d1c19575d',
+    globalEnvironmentId: null,
+    bodyCompression: null,
+    settingSendCookies: true,
+    settingStoreCookies: true
+  },
+  maxHistoryResponses: 20,
+  requestMeta: {
+    _id: 'reqm_06221ae2cadc4fe6958a6c831a8c0237',
+    type: 'RequestMeta',
+    parentId: 'req_7561520cc9da46538d4ff26c44264913',
+    modified: 1734798778107,
+    created: 1734776188269,
+    previewMode: 'friendly',
+    responseFilter: '',
+    responseFilterHistory: [],
+    activeResponseId: 'res_e89776bc37694e08837b85ba6491f300',
+    savedRequestBody: {},
+    pinned: false,
+    lastActive: 1734798778106,
+    downloadPath: null,
+    expandedAccordionKeys: {}
+  },
+  error: "Error: Couldn't connect to server"
+}
+[2024-12-21 16:33:00.304] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:33:00.304] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:33:00.304] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.c2073e30-f41a-455f-8d18-3826a9cdc1a1.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:33:00.422] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:33:00.422] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:33:00.422] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.0cefc8ba-34b6-4bad-b912-cceb2e6f75f4.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:33:08.450] [info]  [network] Response failed req=req_7561520cc9da46538d4ff26c44264913 err=Error: Couldn't connect to server
+[2024-12-21 16:33:08.450] [info]  [request] Failed to send request {
+  response: {
+    _id: 'res_2a060b1d7a004e529fe0000e58e38ac6',
+    parentId: 'req_7561520cc9da46538d4ff26c44264913',
+    timelinePath: '/home/Coldwire/.config/Insomnia/responses/res_2a060b1d7a004e529fe0000e58e38ac6.timeline',
+    contentType: '',
+    headers: [],
+    httpVersion: '',
+    statusCode: 0,
+    statusMessage: 'Error',
+    cookies: [],
+    error: "Error: Couldn't connect to server",
+    elapsedTime: 0.33399999999999996,
+    environmentId: 'env_202d7a851601ae1d65b2e41011f6193d1c19575d',
+    globalEnvironmentId: null,
+    bodyCompression: null,
+    settingSendCookies: true,
+    settingStoreCookies: true
+  },
+  maxHistoryResponses: 20,
+  requestMeta: {
+    _id: 'reqm_06221ae2cadc4fe6958a6c831a8c0237',
+    type: 'RequestMeta',
+    parentId: 'req_7561520cc9da46538d4ff26c44264913',
+    modified: 1734798780414,
+    created: 1734776188269,
+    previewMode: 'friendly',
+    responseFilter: '',
+    responseFilterHistory: [],
+    activeResponseId: 'res_d407e6e7e9a84a80b90f7273eb6f340c',
+    savedRequestBody: {},
+    pinned: false,
+    lastActive: 1734798780413,
+    downloadPath: null,
+    expandedAccordionKeys: {}
+  },
+  error: "Error: Couldn't connect to server"
+}
+[2024-12-21 16:33:08.515] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:33:08.515] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:33:08.516] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.e88dbdea-70e8-4491-9784-5ba79231b0ed.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:33:08.611] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:33:08.611] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:33:08.611] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.f5a7c747-7496-4274-b4d5-84a631441d5d.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:33:19.705] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:33:19.705] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:33:19.706] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.5cac93e6-feca-44f6-85a7-85e42f681a19.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:33:20.721] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:33:20.722] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:33:20.722] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.dba934f8-eaed-4b86-96c1-aeae44c2631c.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:33:22.704] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:33:22.704] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:33:22.704] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.d7999ce6-24bb-41b7-bbd0-89f7ae9ebb95.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:33:30.851] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:33:30.851] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:33:30.851] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.5145131f-7156-40f1-beeb-1473cce3f8e9.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:33:32.088] [info]  [network] Response succeeded req=req_7561520cc9da46538d4ff26c44264913 status=404
+[2024-12-21 16:33:32.142] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:33:32.142] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:33:32.143] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.f3994eed-6afc-4dd3-94dc-04864817da33.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:34:03.196] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:34:03.197] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:34:03.197] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.22c91e75-a576-479b-932e-125308c5c82a.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:34:04.214] [info]  [network] Response succeeded req=req_7561520cc9da46538d4ff26c44264913 status=404
+[2024-12-21 16:34:04.291] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:34:04.291] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:34:04.291] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.f9e11867-ff83-4060-89c6-53bbb4219460.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:34:50.735] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:34:50.735] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:34:50.735] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.2c511e8f-f861-473b-a645-11bf20d42a5a.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:34:55.595] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:34:55.595] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:34:55.595] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.b5ae8224-6657-4cee-a60f-3e348211dd1a.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:34:56.533] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:34:56.534] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:34:56.534] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.d37d8ad6-146d-4c1f-88b5-84ebc493afac.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:34:57.770] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:34:57.770] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:34:57.770] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.e9eab703-c3f4-4f36-846d-4c8a99ad3d1a.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:34:58.455] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:34:58.456] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:34:58.456] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.efc648c1-0fa8-45ab-8463-4fa7118d80c3.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:34:59.873] [info]  [network] Response succeeded req=req_7561520cc9da46538d4ff26c44264913 status=404
+[2024-12-21 16:34:59.931] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:34:59.931] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:34:59.931] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.9dd66d88-79d7-4c8b-80a6-22b4987b58df.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:01.132] [info]  [network] Response succeeded req=req_7561520cc9da46538d4ff26c44264913 status=404
+[2024-12-21 16:35:01.186] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:01.186] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:01.187] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.66a172d8-eb1c-4144-9dfa-1b7479f39e74.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:07.818] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:07.819] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:07.819] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.a3bce2ff-0c48-4d6c-8595-2ef05c732d3f.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:17.397] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:17.397] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:17.398] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.a1f88d03-46e9-4abe-8078-ad9c1a116a44.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:18.894] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:18.894] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:18.895] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.77e7ea91-b96f-4393-b181-043ff773ae34.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:19.023] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:19.023] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:19.023] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.109701f8-2262-410e-8fbb-9b541265b02d.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:19.142] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:19.142] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:19.143] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.e2c80b93-ede9-444a-9861-04a652a9e649.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:19.468] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:19.469] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:19.469] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.ee970320-b7d7-4fe3-a6bd-5fe70b2b4d9e.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:19.603] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:19.603] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:19.603] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.54b6b66e-499d-41ff-8bc6-39dc8b743cf2.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:19.723] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:19.723] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:19.723] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.532b4b12-015e-4086-b8a7-da9d7d66a81d.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:19.800] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:19.800] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:19.800] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.4179c826-64a2-41e6-82d3-26f9ca72b77d.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:21.226] [info]  [network] Response succeeded req=req_7561520cc9da46538d4ff26c44264913 status=400
+[2024-12-21 16:35:21.280] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:21.280] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:21.280] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.65ccefed-db2b-4f04-8d65-fde01d4c236e.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:25.003] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:25.003] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:25.003] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.0001a8c7-c919-4b14-aa2f-f7b8b107d0bb.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:26.417] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:26.417] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:26.418] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.d899a524-48c1-4cb5-bfaf-4cc11684cb37.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:28.145] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:28.145] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:28.145] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.ac7316fb-6069-4ad0-8bad-16bcded3429f.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:28.912] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:28.912] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:28.912] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.399edb2e-c4cb-453a-947d-0cdd07979247.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:29.169] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:29.170] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:29.170] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.0ddeee76-7612-4776-b378-74b1626b1db6.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:31.130] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:31.130] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:31.130] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.70483724-7c19-4a94-ac20-9db4aa400737.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:31.773] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:31.773] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:31.774] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.0d2e268c-8f23-4a36-a1fe-f15eef68c580.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:32.548] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:32.548] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:32.548] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.d12ed907-df3e-469b-8baf-30621ccc13c4.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:33.141] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:33.141] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:33.142] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.5a03dff2-239e-4075-95e8-3dd78a2ca02d.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:33.439] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:33.439] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:33.439] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.ca5fcd2a-23bc-462f-86cd-fb059ee04a47.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:34.532] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:34.532] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:34.533] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.2c1fe863-d361-40e8-93d3-3cae3235e090.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:37.444] [info]  [network] Response succeeded req=req_7561520cc9da46538d4ff26c44264913 status=400
+[2024-12-21 16:35:37.510] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:37.510] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:37.510] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.f1e85c95-ccff-42ad-85a9-f91ae11242e8.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:40.010] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:40.010] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:40.010] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.044c01e9-6d0e-4808-8ebc-4355157bef90.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:52.559] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:52.559] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:52.560] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.1b197691-8e1d-4327-8a87-7413ddae72bb.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:53.251] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:53.251] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:53.251] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.d204b55a-a6d2-42f2-aa69-ae5b5346de1a.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:53.999] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:53.999] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:53.999] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.8f196e2a-e359-4167-850a-3bc2b9aad112.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:54.128] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:54.128] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:54.129] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.16ea7ce4-6f77-4686-b6e5-9b6007bfe329.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:54.499] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:54.500] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:54.500] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.e2475443-dc8a-4ba9-b5ae-1d8751647892.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:54.769] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:54.769] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:54.770] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.4c3ac134-4673-4d9c-9617-d886460c2ee9.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:54.974] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:54.974] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:54.974] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.2ad49410-808e-43e1-aa0f-b096666322fc.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:55.329] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:55.329] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:55.330] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.673a4029-7b66-4152-af46-a44ae5e88163.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:55.597] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:55.597] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:55.598] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.eb2881b8-c9ea-4a7b-88c1-188c9eb64f4e.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:55.876] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:55.876] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:55.880] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.2eefa8f8-dd7b-4928-876e-0be649a924ea.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:56.048] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:35:56.048] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:35:56.048] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.901c70e4-5c9f-4f1f-b68f-00f1e0df2057.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:36:18.532] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:36:18.532] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:36:18.533] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.6b56dbd7-f896-43b8-a379-58b9fbb02d58.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:36:40.949] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:36:40.950] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:36:40.950] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.7d27ebeb-8637-44d2-9dd9-da136bd099cb.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:37:03.236] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:37:03.236] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:37:03.236] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.10ed9d2c-ff3a-499c-9bf8-b238ce75a473.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:37:04.203] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:37:04.204] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:37:04.204] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.edfe9cf1-a85c-4915-82e5-16fbd425aad9.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:41:29.246] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:41:29.246] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:41:29.247] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.c410434c-c838-44fe-97a4-ece5bc3f4f00.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:41:44.329] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:41:44.329] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:41:44.330] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.37a34175-ee2d-43c6-b75c-6541c8778179.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:41:49.973] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:41:49.973] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:41:49.974] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.83f00c84-947d-4529-8247-20271b545ed7.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:42:17.706] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:42:17.706] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:42:17.706] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.4507e443-ec4c-4257-a583-6ece6ae13c95.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:42:18.976] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:42:18.977] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:42:18.977] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.0dccccff-69ef-46aa-8382-cf680c0fb058.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:42:23.350] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:42:23.351] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:42:23.351] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.bc0a33bb-d47e-48cb-ad15-66fdc6907ee1.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:43:50.761] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:43:50.762] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:43:50.762] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.e542d014-49dc-460c-9038-1b39f7f29006.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:43:51.166] [info]  [network] Response succeeded req=req_7561520cc9da46538d4ff26c44264913 status=404
+[2024-12-21 16:43:51.261] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:43:51.261] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:43:51.261] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.7fa124f6-27a4-4d2a-a6d7-0df1072872a3.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:44:11.215] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:44:11.216] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:44:11.216] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.b7611fc7-96ac-4ffe-8bd6-c610ca4a527a.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:44:12.244] [info]  [network] Response succeeded req=req_7561520cc9da46538d4ff26c44264913 status=404
+[2024-12-21 16:44:12.333] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:44:12.334] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:44:12.334] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.cba75890-aeda-448e-a012-5c676007f14f.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:44:24.710] [info]  [network] Response succeeded req=req_7561520cc9da46538d4ff26c44264913 status=500
+[2024-12-21 16:44:24.885] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:44:24.885] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:44:24.886] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.4b5470df-94a0-4e16-965d-9c25ef3a4802.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:44:24.888] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:44:24.889] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:44:24.889] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.5005c447-ce6f-480d-b965-093f85cd9247.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:44:43.829] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:44:43.830] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:44:43.830] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.3500d64a-93f3-4bd5-9752-b772dff7e666.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:44:45.672] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:44:45.672] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:44:45.673] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.b5625ccd-368e-47e8-a1af-2e3f0a606356.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:44:46.630] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:44:46.630] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:44:46.631] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.a9335b84-fe11-4c4e-a334-39ab8df6b33a.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:47:39.798] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:47:39.799] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:47:39.799] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.b7f42273-d1a2-43ec-99b6-b708d16146eb.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:47:40.790] [info]  [network] Response failed req=req_7561520cc9da46538d4ff26c44264913 err=Error: Couldn't connect to server
+[2024-12-21 16:47:40.791] [info]  [request] Failed to send request {
+  response: {
+    _id: 'res_3e2a8233425a482fa51e239933f52f65',
+    parentId: 'req_7561520cc9da46538d4ff26c44264913',
+    timelinePath: '/home/Coldwire/.config/Insomnia/responses/res_3e2a8233425a482fa51e239933f52f65.timeline',
+    contentType: '',
+    headers: [],
+    httpVersion: '',
+    statusCode: 0,
+    statusMessage: 'Error',
+    cookies: [],
+    error: "Error: Couldn't connect to server",
+    elapsedTime: 1.804,
+    environmentId: 'env_202d7a851601ae1d65b2e41011f6193d1c19575d',
+    globalEnvironmentId: null,
+    bodyCompression: null,
+    settingSendCookies: true,
+    settingStoreCookies: true
+  },
+  maxHistoryResponses: 20,
+  requestMeta: {
+    _id: 'reqm_06221ae2cadc4fe6958a6c831a8c0237',
+    type: 'RequestMeta',
+    parentId: 'req_7561520cc9da46538d4ff26c44264913',
+    modified: 1734799659747,
+    created: 1734776188269,
+    previewMode: 'friendly',
+    responseFilter: '',
+    responseFilterHistory: [],
+    activeResponseId: 'res_20de7130e20243708e9c483a51184a2b',
+    savedRequestBody: {},
+    pinned: false,
+    lastActive: 1734799659745,
+    downloadPath: null,
+    expandedAccordionKeys: {}
+  },
+  error: "Error: Couldn't connect to server"
+}
+[2024-12-21 16:47:40.899] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:47:40.899] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:47:40.900] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.63f90ccc-419e-4358-80f7-c85e2b71fa59.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:47:41.083] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:47:41.083] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:47:41.083] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.238c5a23-3b55-4722-abe5-766d0132c205.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:47:42.857] [info]  [network] Response failed req=req_7561520cc9da46538d4ff26c44264913 err=Error: Couldn't connect to server
+[2024-12-21 16:47:42.858] [info]  [request] Failed to send request {
+  response: {
+    _id: 'res_5f643a3dc3664704a87808eea0c0ed52',
+    parentId: 'req_7561520cc9da46538d4ff26c44264913',
+    timelinePath: '/home/Coldwire/.config/Insomnia/responses/res_5f643a3dc3664704a87808eea0c0ed52.timeline',
+    contentType: '',
+    headers: [],
+    httpVersion: '',
+    statusCode: 0,
+    statusMessage: 'Error',
+    cookies: [],
+    error: "Error: Couldn't connect to server",
+    elapsedTime: 0.464,
+    environmentId: 'env_202d7a851601ae1d65b2e41011f6193d1c19575d',
+    globalEnvironmentId: null,
+    bodyCompression: null,
+    settingSendCookies: true,
+    settingStoreCookies: true
+  },
+  maxHistoryResponses: 20,
+  requestMeta: {
+    _id: 'reqm_06221ae2cadc4fe6958a6c831a8c0237',
+    type: 'RequestMeta',
+    parentId: 'req_7561520cc9da46538d4ff26c44264913',
+    modified: 1734799661073,
+    created: 1734776188269,
+    previewMode: 'friendly',
+    responseFilter: '',
+    responseFilterHistory: [],
+    activeResponseId: 'res_3e2a8233425a482fa51e239933f52f65',
+    savedRequestBody: {},
+    pinned: false,
+    lastActive: 1734799661072,
+    downloadPath: null,
+    expandedAccordionKeys: {}
+  },
+  error: "Error: Couldn't connect to server"
+}
+[2024-12-21 16:47:42.919] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:47:42.920] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:47:42.920] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.11b046c4-e6a3-4557-af3a-db93ac12505b.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:47:43.015] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:47:43.015] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:47:43.015] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.4d4092f2-9afe-4d2b-b8a6-07a3948eb1a4.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:47:48.591] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:47:48.591] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:47:48.591] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.624dc878-b26c-4626-9973-c6b5dba02d8f.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:47:49.501] [info]  [network] Response succeeded req=req_7561520cc9da46538d4ff26c44264913 status=404
+[2024-12-21 16:47:49.554] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:47:49.554] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:47:49.554] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.8fd42462-c3b2-48d3-a1fa-e0ebb22c0426.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:49:09.984] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:49:09.984] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:49:09.984] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.d7af6784-5287-41fd-92f6-a141eef73570.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:56:23.326] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 16:56:23.327] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 16:56:23.327] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.166c8d81-ab67-4d71-879a-60f7b1dd295e.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:05:32.430] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 17:05:32.430] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:05:32.431] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.efdd65b4-c4bd-4820-bebf-2c661efb3caa.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:12:24.270] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 17:12:24.270] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:12:24.270] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.5b829ac6-3bd1-4136-ae1c-77b43483a646.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:15:05.110] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 17:15:05.110] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:15:05.111] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.f0a7730b-f259-4a71-a1e1-a3613cabc0a0.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:15:10.764] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 17:15:10.765] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:15:10.765] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.c5b039a4-9218-4c25-889b-4afc7e768d0b.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:15:12.511] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 17:15:12.511] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:15:12.511] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.2a52865b-187d-4356-bc87-584144de305b.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:15:13.174] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 17:15:13.174] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:15:13.174] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.11d09e1f-b957-48f7-aa6b-1015db7d8645.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:15:17.019] [info]  [network] Response succeeded req=req_7561520cc9da46538d4ff26c44264913 status=403
+[2024-12-21 17:15:17.082] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 17:15:17.082] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:15:17.082] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.b495c476-c5b9-49fd-8338-8a2415541144.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:15:31.114] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 17:15:31.114] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:15:31.115] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.3eb744a8-7419-45b6-83d2-85ac3dc87947.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:15:33.049] [info]  [network] Response succeeded req=req_7561520cc9da46538d4ff26c44264913 status=500
+[2024-12-21 17:15:33.197] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 17:15:33.197] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:15:33.197] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.548a37ed-ce0a-49f8-87c9-c40ee564a010.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:21:18.766] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 17:21:18.767] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:21:18.767] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.9a56c845-ecd3-40a3-aa91-e2933fb53974.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:30:14.428] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 17:30:14.428] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 17:30:14.428] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.a5894bdf-c554-425f-80d8-3dc06cd3a725.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 22:36:43.429] [info]  [sync] Activated project prj_3edddfcf65464f89b867c83631c9271b
+[2024-12-21 22:36:43.429] [info]  [FileSystemDriver] Writing to /projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json
+[2024-12-21 22:36:43.430] [info]  [FileSystemDriver] Writing to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json.48d075a7-f0c5-46a3-9ab3-a35143704422.tmp then renaming to /home/Coldwire/.config/Insomnia/version-control/projects/prj_3edddfcf65464f89b867c83631c9271b/meta.json

@@ -1,0 +1,25 @@
+{
+  "author": "acct_4786380b1a1f419dbd029a0bda1dc7bb",
+  "authorAccount": {
+    "email": "coldwire20@gmail.com",
+    "firstName": "Cold",
+    "lastName": "wire"
+  },
+  "created": "2024-12-21T10:16:22.615Z",
+  "description": "",
+  "id": "93118885d99a4c738c670856dd8bbc55c9e7fd0a",
+  "name": "Initial Snapshot",
+  "parent": "0000000000000000000000000000000000000000",
+  "state": [
+    {
+      "blob": "3b9f935058bcbc39a16651cbe223218b8ed1d7b8",
+      "key": "env_202d7a851601ae1d65b2e41011f6193d1c19575d",
+      "name": "Base Environment"
+    },
+    {
+      "blob": "11e9a045ecaef8f8896a59ff13f4cbfc9163fdea",
+      "key": "wrk_d0361bee4c11489fb2364b5757739127",
+      "name": "My Collection"
+    }
+  ]
+}

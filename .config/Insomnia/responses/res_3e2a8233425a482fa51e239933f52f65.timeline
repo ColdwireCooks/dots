@@ -1,0 +1,16 @@
+{"value":"Preparing request to http://localhost:8000/api/add-consultation/","name":"Text","timestamp":1734799660772}
+{"value":"Current time is 2024-12-21T16:47:40.772Z","name":"Text","timestamp":1734799660772}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1734799660772}
+{"value":"Using default HTTP version","name":"Text","timestamp":1734799660772}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1734799660772}
+{"value":"Enable SSL validation","name":"Text","timestamp":1734799660772}
+{"name":"Text","value":"Too old connection (196 seconds idle), disconnect it\n","timestamp":1734799660773}
+{"name":"Text","value":"Connection 6 seems to be dead\n","timestamp":1734799660773}
+{"name":"Text","value":"Closing connection 6\n","timestamp":1734799660773}
+{"name":"Text","value":"Hostname in DNS cache was stale, zapped\n","timestamp":1734799660773}
+{"name":"Text","value":"  Trying 127.0.0.1:8000...\n","timestamp":1734799660773}
+{"name":"Text","value":"connect to 127.0.0.1 port 8000 failed: Connection refused\n","timestamp":1734799660773}
+{"name":"Text","value":"  Trying [::1]:8000...\n","timestamp":1734799660773}
+{"name":"Text","value":"connect to ::1 port 8000 failed: Connection refused\n","timestamp":1734799660774}
+{"name":"Text","value":"Failed to connect to localhost port 8000 after 1 ms: Couldn't connect to server\n","timestamp":1734799660774}
+{"name":"Text","value":"Closing connection 7\n","timestamp":1734799660774}

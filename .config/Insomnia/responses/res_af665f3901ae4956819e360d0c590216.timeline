@@ -1,0 +1,15 @@
+{"value":"Preparing request to http://localhost:8000/api/search-patient/","name":"Text","timestamp":1734778364729}
+{"value":"Current time is 2024-12-21T10:52:44.729Z","name":"Text","timestamp":1734778364729}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1734778364729}
+{"value":"Using default HTTP version","name":"Text","timestamp":1734778364743}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1734778364743}
+{"value":"Enable SSL validation","name":"Text","timestamp":1734778364743}
+{"name":"Text","value":"Connection 10 seems to be dead\n","timestamp":1734778364743}
+{"name":"Text","value":"Closing connection 10\n","timestamp":1734778364743}
+{"name":"Text","value":"Hostname in DNS cache was stale, zapped\n","timestamp":1734778364743}
+{"name":"Text","value":"  Trying 127.0.0.1:8000...\n","timestamp":1734778364743}
+{"name":"Text","value":"connect to 127.0.0.1 port 8000 failed: Connection refused\n","timestamp":1734778364743}
+{"name":"Text","value":"  Trying [::1]:8000...\n","timestamp":1734778364743}
+{"name":"Text","value":"connect to ::1 port 8000 failed: Connection refused\n","timestamp":1734778364744}
+{"name":"Text","value":"Failed to connect to localhost port 8000 after 0 ms: Couldn't connect to server\n","timestamp":1734778364744}
+{"name":"Text","value":"Closing connection 11\n","timestamp":1734778364744}

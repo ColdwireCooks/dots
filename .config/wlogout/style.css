@@ -1,0 +1,81 @@
+
+@define-color foreground #F7D8D3;
+@define-color background rgba(50,46,50,0.25);
+@define-color cursor #F7D8D3;
+
+@define-color color0 #575357;
+@define-color color1 #2E1F2E;
+@define-color color2 #12263E;
+@define-color color3 #11263F;
+@define-color color4 #1E5988;
+@define-color color5 #6A5E7C;
+@define-color color6 #AF6B60;
+@define-color color7 #ECBFB7;
+@define-color color8 #A58580;
+@define-color color9 #3D293D;
+@define-color color10 #183253;
+@define-color color11 #163354;
+@define-color color12 #2876B6;
+@define-color color13 #8D7DA6;
+@define-color color14 #E98F80;
+@define-color color15 #ECBFB7;
+
+window {
+  font-family: Fira Code Medium;
+  font-size: 16pt;
+  color: #cdd6f4; /* text */
+  background-color: rgba(30, 30, 46, 0.6);
+}
+
+button {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 20%;
+  background-color: rgba(200, 220, 255, 0);
+  animation: gradient_f 20s ease-in infinite;
+  border-radius: 50px; /* Increased border radius for a more rounded look */
+}
+button:focus {
+  background-size: 25%;
+  border: 0px;
+  background-color: @color5; 
+}
+
+button:hover {
+  background-color: @color5;
+  color: #1e1e2e;
+  background-size: 40%;
+  border-radius: 60px;
+  transition:
+    all 0.3s cubic-bezier(0.55, 0, 0.28, 1.682),
+    box-shadow 0.2s ease-in-out,
+    background-color 0.3s ease-in-out;
+}
+
+/* Adjust the size of the icon or content inside the button */
+button span {
+  font-size: 1.2em; /* Increase the font size */
+}
+
+#lock {
+  background-image: image(url("./lock.png"));
+}
+
+#logout {
+  background-image: image(url("./logout.png"));
+}
+
+#suspend {
+  background-image: image(url("./sleep.png"));
+}
+
+#shutdown {
+  background-image: image(url("./power.png"));
+}
+
+#reboot {
+  background-image: image(url("./restart.png"));
+}
+#hibernate {
+  background-image: image(url("./windows.png"));
+}
